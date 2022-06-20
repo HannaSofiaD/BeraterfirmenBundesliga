@@ -1,6 +1,7 @@
 # Beraterfirmen in der Bundesliga
 # Datensatz #
-Codebuch Beraterfirmen der Bundesligaspieler
+Codebuch Beraterfirmen der Bundesligaspieler 
+Stand Pretest (21. Juni 2022)
 
 Erstellt von Hanna Damaschke (hd029) und Julian Rebmann (jr126)
 
