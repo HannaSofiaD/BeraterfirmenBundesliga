@@ -25,7 +25,7 @@ Entspricht den Spieler-IDs in der Nodelist.
 **to**  
 Entspricht der ID der Beratungsfirma oder des Vereins
 
-**relation** 
+**relation**  
 Definiert die Art der Geschäftsbeziehung: 1 = Spieler zu Beratungsfirma, 2 = Spieler zu Verein
 
 # NODELIST-Attribute  
@@ -33,14 +33,14 @@ Definiert die Art der Geschäftsbeziehung: 1 = Spieler zu Beratungsfirma, 2 = Sp
 **id**  
 Eindeutige Identifikation der einzelnen Knotens (Beraterfirmen, Vereine, Spieler), der erfasst wird.  
 
-**name**
+**name**  
 Name der Beraterfirma, des Vereins oder des Spielers als klar Bezeichnung des Knotens. 
 
-**type**
+**type**  
 Art des Knotens: 1 = Beraterfirma, 2 = Verein, 3 = Spieler.
 
-**country**    
+**country**   
 Sitz der Beratungsfirma oder Nationalität des Spielers.
 
-**age**
+**age**   
 Alter des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
