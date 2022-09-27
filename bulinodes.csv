@@ -1,21 +1,375 @@
 id,name,type,country,age,value
+FCB,FC Bayern Muenchen,2,,,
 Neuer,Manuel Neuer,3,Deutschland,36,150
 Ulreich,Sven Ulreich,3,Deutschland,33,9
 Fruechtl,Christian Fruechtl,3,Deutschland,22,6
+Hoffmann,Ron-Thorben Hoffmann,3,Deutschland,22,5
 Hernandez,Lucas Hernandez,3,Frankreich,26,500
 Upamecano,Dayot Upamecano,3,Frankreich,23,400
 Suele,Niklas Suele,3,Deutschland,26,350
 Nianzou,Tanguy Nianzou,3,Frankreich,20,90
+RichardsC,Chris Richards,3,USA,22,75
+Lawrence,Jamie Lawrence,3,Deutschland,19,10
+Feldhahn,Nicolas Feldhahn,3,Deutschland,35,1
 Davies,Alphonso Davies,3,Kanada,21,700
-Richards,Omar Richards,3,England,24,70
+RichardsO,Omar Richards,3,England,24,70
 Pavard,Benjamin Pavard,3,Frankreich,26,300
-FCB,FC Bayern,2,,,
+Stanisic,Josip Stanisic,3,Kroatien,22,40
+Sarr,Bouna Sarr,3,Senegal,30,25
+Kimmich,Joshua Kimmich,3,Deutschland,27,800
+Roca,Marc Roca,3,Spanien,25,70
+Booth,Taylor Booth,3,USA,21,10
+Goretzka,Leon Goretzka,3,Deutschland,27,650
+Sabitzer,Marcel Sabitzer,3,Oesterreich,28,150
+Tolisso,Corentin Tolisso,3,Frankreich,27,150
+Cuisance,Michael Cuisance,3,Frankreich,22,40
+Kern,Timo Kern,3,Deutschland,32,2
+Musiala,Jamal Musiala,3,Deutschland,19,650
+Wanner,Paul Wanner,3,Deutschland,16,20
+Tillman,Malik Tillman,3,USA,20,15
+Sane,Leroy Sane,3,Deutschland,26,600
+Motika,Nemanja Motika,3,Serbien,19,12
+Ibrahimovic,Arijon Ibrahimovic,3,Deutschland,16,
+Gnabry,Serge Gnabry,3,Deutschland,26,650
+Coman,Kingsley Coman,3,Frankreich,26,600
+Mueller,Thomas Mueller,3,Deutschland,32,220
+Vidovic,Gabriel Vidovic,3,Kroatien,18,30
+Lewandowski,Robert Lewandowski,3,Polen,33,450
+Choupo-Moting,Eric Maxim Choupo-Moting,3,Kamerun,33,30
+Copado,Lucas Copado,3,Deutschland,18,10
+BVB,Borussia Dortmund,2,,,
+Kobel,Gregor Kobel,3,Schweiz,24,220
+Unbehaun,Luca Unbehaun,3,Deutschland,21,15
+Buerki,Roman Buerki,3,Schweiz,31,15
+Hitz,Marwin Hitz,3,Schweiz,34,10
+Drljaca,Stefan Drljaca,3,Deutschland,23,2
+Ostrzinski,Silas Ostrzinski,3,Deutschland,18,
+Akanji,Manuel Akanji,3,Schweiz,26,300
+Zagadou,Dan-Axel Zagadou,3,Frankreich,23,90
+Hummels,Mats Hummels,3,Deutschland,33,65
+Pongracic,Marin Pongracic,3,Kroatien,24,60
+Coulibaly,Soumaila Coulibaly,3,Frankreich,18,8
+Maloney,Lennard Maloney,3,USA,22,4
+Papadopoulos,Antonios Papadopoulos,3,Deutschland,22,4
+Guerreiro,Raphael Guerreiro,3,Portugal,28,250
+Schulz,Nico Schulz,3,Deutschland,29,40
+Rothe,Tom Rothe,3,Deutschland,17,12
+Schmelzer,Marcel Schmelzer,3,Deutschland,34,5
+Meunier,Thomas Meunier,3,Belgien,30,65
+Morey,Mateu Morey Bauza,3,Spanien,22,40
+Passlack,Felix Passlack,3,Deutschland,24,15
+Semic,Lion Semic,3,Deutschland,18,5
+Can,Emre Can,3,Deutschland,28,160
+Delaney,Thomas Delaney,3,Daenemark,30,70
+Witsel,Axel Witsel,3,Belgien,33,40
+Kamara,Abdoulaye Kamara,3,Guinea,17,10
+Bellingham,Jude Bellingham,3,England,18,800
+Dahoud,Mahmoud Dahoud,3,Deutschland,26,180
+Raschl,Tobias Raschl,3,Deutschland,22,10
+Pasalic,Marco Pasalic,3,Kroatien,21,3
+Reyna,Giovanni Reyna,3,USA,19,350
+Brandt,Julian Brandt,3,Deutschland,26,250
+Reus,Marco Reus,3,Deutschland,33,110
+Reinier,Reinier,3,Brasilien,20,80
+Pherai,Immanuel Pherai,3,Niederlande,21,7
+Guerpuez,Goektan Guerpuez,3,Deutschland,19,3
+Hazard,Thorgan Hazard,3,Belgien,29,150
+Knauff,Ansgar Knauff,3,Deutschland,20,100
+Wolf,Marius Wolf,3,Deutschland,27,65
+Bynoe-Gittens,Jamie Bynoe-Gittens,3,England,17,40
+Haaland,Erling Haaland,3,Norwegen,21,1500
+Malen,Donyell Malen,3,Niederlande,23,270
+Moukoko,Youssoufa Moukoko,3,Deutschland,17,150
+Tigges,Steffen Tigges,3,Deutschland,23,15
+Nijnmah,Justin Nijnmah,3,Deutschland,21,4
+LEV,Bayer 04 Leverkusen,2,,,
+Hradecky,Lukas Hradecky,3,Finnland,32,50
+Lunev,Andrey Lunev,3,Russland,30,25
+Grill,Lennart Grill,3,Deutschland,23,10
+Lomb,Niklas Lomb,3,Deutschland,28,3
+Neutgens,Maximilian Neutgens,3,Deutschland,18,
+Tapsoba,Edmond Tapsoba,3,Burkina Faso,23,350
+Tah,Jonathan Tah,3,Deutschland,26,250
+Kossounou,Odilon Kossounou,3,Elfenbeinkueste,21,200
+Hincapie,Piero Hincapie,3,Ecuador,20,170
+Retsos,Panagiotis Retsos,3,Griechenland,23,28
+Fofana,Sadik Fofana,3,Togo,19,
+Bakker,Mitchel Bakker,3,Niederlande,22,140
+Wendell,Wendell,3,Brasilien,28,50
+Sinkgraven,Daley Sinkgraven,3,Niederlande,26,40
+Frimpong,Jeremie Frimpong,3,Niederlande,21,200
+Fosu-Mensah,Timothy Fosu-Mensah,3,Niederlande,24,40
+Weiser,Mitchell Weiser,3,Deutschland,28,15
+Baumgartlinger,Julian Baumgartlinger,3,Oesterreich,34,8
+Demirbay,Kerem Demirbay,3,Deutschland,28,150
+Palacios,Exequiel Palacios,3,Argentinien,23,150
+Andrich,Robert Andrich,3,Deutschland,27,130
+Amiri,Nadiem Amiri,3,Deutschland,25,80
+Aranguiz,Charles Aranguiz,3,Chile,33,35
+Sertdemir,Zidan Sertdemir,3,Norwegen,17,20
+Azhil,Ayman Azhil,3,Marokko,21,4
+Wirtz,Florian Wirtz,3,Deutschland,19,700
+Diaby,Moussa Diaby,3,Frankreich,22,600
+Paulinho,Paulinho,3,Brasilien,21,110
+Adli,Amine Adli,3,Frankreich,22,120
+Bellarabi,Karim Bellarabi,3,Deutschland,32,30
+Schloesser,Yannik Schloesser,3,Deutschland,20,1
+Schick,Patrik Schick,3,Tschechien,26,500
+Azmoun,Sardar Azmoun,3,Iran,27,220
+Alario,Lucas Alario,3,Argentinien,29,80
+Pohjanpalo,Joel Pohjanpalo,3,Finnland,27,25
+Gedikli,Emrehan Gedikli,3,Deutschland,19,12
+Bravo,Iker Bravo,3,Spanien,17,10
+RBL,RB Leipzig,2,,,
+Gulacsi,Peter Gulacsi,3,Ungarn,32,80
+Martinez,Josep Martinez,3,Spanien,24,22
+Tschauner,Philipp Tschauner,3,Deutschland,36,3
+Eutinger,Fabian Eutinger,3,Deutschland,18,1
+Gvardiol,Josko Gvardiol,3,Kroatien,20,350
+Simakan,Mohamed Simakan,3,Frankreich,22,220
+Klostermann,Lukas Klostermann,3,Deutschland,26,180
+Orban,Willi Orban,3,Ungarn,29,100
+Lelle,David Lelle,3,Deutschland,19,
+Angelino,Angelino,3,Spanien,25,300
+Halstenberg,Marcel Halstenberg,3,Deutschland,30,50
+Mukiele,Nordi Mukiele,3,Frankreich,24,200
+Henrichs,Benjamin Henrichs,3,Deutschland,25,140
+Bonnah,Solomon Bonnah,3,Niederlande,18,8
+Adams,Tyler Adams,3,USA,23,170
+Laimer,Konrad Laimer,3,Oesterreich,25,280
+Haidara,Amadou Haidara,3,Mali,24,240
+Moriba,Ilaix Moriba,3,Guinea,19,90
+Kampl,Kevin Kampl,3,Slowenien,31,60
+Raebiger,Sidney Raebiger,3,Deutschland,17,8
+Klefisch,Ben Klefisch,3,Deutschland,19,2
+Olmo,Dani Olmo,3,Spanien,24,400
+Wosz,Joscha Wosz,3,Deutschland,19,4
+Szoboszlai,Dominik Szoboszlai,3,Ungarn,21,280
+Forsberg,Emil Forsberg,3,Schweden,30,110
+Ibrahimi,Mehmet Ibrahimi,3,Deutschland,19,
+Novoa,Hugo Novoa,3,Spanien,19,30
+Hartmann,Fabrice Hartmann,3,Deutschland,21,3
+Nkunku,Christopher Nkunku,3,Frankreich,24,800
+Silva,Andre Silva,3,Portugal,26,320
+Hwang,Hee-chan Hwang,3,Suedkorea,26,160
+Poulsen,Yussuf Poulsen,3,Daenemark,28,140
+Brobbey,Brian Brobbey,3,Niederlande,20,90
+FCU,1 FC Union Berlin,2,,,
+Roennow,Frederik Roennow,3,Daenemark,29,20
+Luthe,Andreas Luthe,3,Deutschland,35,8
+Busk,Jakob Busk,3,Daenemark,28,3
+Petzsch,Niklas Petzsch,3,Deutschland,18,
+Stein,Yannic Stein,3,Deutschland,17,
+Friedrich,Marvin Friedrich,3,Deutschland,26,80
+Jaeckel,Paul Jaeckel,3,Deutschland,23,50
+Baumgartl,Timo Baumgartl,3,Deutschland,26,50
+Knoche,Robin Knoche,3,Deutschland,30,50
+Heintz,Dominique Heintz,3,Deutschland,28,25
+van Drongelen,Rick van Drongelen,3,Niederlande,23,15
+Bruns,Mathis Bruns,3,Deutschland,18,2
+Puchacz,Tymoteusz Puchacz,3,Polen,23,23
+Giesselmann,Niko Giesselmann,3,Deutschland,30,23
+Oczipka,Bastian Oczipka,3,Deutschland,33,6
+Ryerson,Julian Ryerson,3,Norwegen,24,40
+Trimmel,Christopher Trimmel,3,Oesterreich,35,9
+Dehl,Laurenz Dehl,3,Deutschland,20,3
+Khedira,Rani Khedira,3,Deutschland,28,60
+Griesbeck,Sebastian Griesbeck,3,Deutschland,31,7
+Proemel,Grischa Proemel,3,Deutschland,27,75
+Schaefer,Andras Schaefer,3,Ungarn,23,20
+Oeztunali,Levin Oeztunali,3,Deutschland,26,15
+Moehwald,Kevin Moehwald,3,Deutschland,28,15
+Schneider,Fabio Schneider,3,Deutschland,19,2
+Somnitz,Maximilian Somnitz,3,Deutschland,19,2
+Wszolek,Pawel Wszolek,3,Polen,30,12
+Haraguchi,Genki Haraguchi,3,Japan,31,25
+Endo,Keita Endo,3,Japan,24,9
+Becker,Sheraldo Becker,3,Suriname,27,70
+Kruse,Max Kruse,3,Deutschland,34,35
+Awoniyi,Taiwo Awoniyi,3,Nigeria,24,200
+Ingvartsen,Marcus Ingvartsen,3,Daenemark,26,25
+Voglsammer,Andreas Voglsammer,3,Deutschland,30,12
+Michel,Sven Michel,3,Deutschland,31,12
+Teuchert,Cedric Teuchert,3,Deutschland,25,9
+Behrens,Kevin Behrens,3,Deutschland,31,9
+Ujah,Anthony Ujah,3,Nigeria,31,5
+Abdullahi,Suleiman Abdullahi,3,Nigeria,25,4
+SCF,SC Freiburg,2,,,
+Flekken,Mark Flekken,3,Niederlande,29,70
+Atubolu,Noah Atubolu,3,Deutschland,20,15
+Uphoff,Benjamin Uphoff,3,Deutschland,28,5
+SchlotterbeckN,Nico Schlotterbeck,3,Deutschland,22,330
+Lienhart,Philipp Lienhart,3,Oesterreich,25,180
+SchlotterbeckK,Keven Schlotterbeck,3,Deutschland,25,30
+Gulde,Manuel Gulde,3,Deutschland,31,17
+Sildillia,Kiliann Sildillia,3,Frankreich,20,15
+Schmidt,Kenneth Schmidt,3,Deutschland,20,5
+Guenter,Christian Guenter,3,Deutschland,29,120
+Ezekwem,Kimberly Ezekwem,3,Deutschland,21,3
+Siquet,Hugo Siquet,3,Belgien,19,55
+Kuebler,Lukas Kuebler,3,Deutschland,29,23
+Schmid,Jonathan Schmid,3,Frankreich,32,12
+Keitel,Yannik Keitel,3,Deutschland,22,40
+Hoefler,Nicolas Hoefler,3,Deutschland,32,25
+Engelhardt,Yannik Engelhardt,3,Deutschland,21,4
+Santamaria,Baptiste Santamaria,3,Frankreich,27,140
+Eggestein,Maximilian Eggestein,3,Deutschland,25,80
+Haberer,Janik Haberer,3,Deutschland,28,35
+Wagner,Robert Wagner,3,Deutschland,18,5
+Grifo,Vincenzo Grifo,3,Italien,29,120
+Weisshaupt,Noah Weisshaupt,3,Deutschland,20,17
+Sallai,Roland Sallai,3,Ungarn,25,120
+Schade,Kevin Schade,3,Deutschland,20,70
+Jeong,Woo-Yeong Jeong,3,Suedkorea,22,55
+Hoeler,Lucas Hoeler,3,Deutschland,27,65
+Demirovic,Ermedin Demirovic,3,Bosnien-Herzegowina,24,60
+Petersen,Nils Petersen,3,Deutschland,33,15
+Vermeij,Vincent Vermeij,3,Niederlande,27,4
+Burkart,Nishan Burkart,3,Schweiz,22,4
+FCK,1 FC Koeln,2,,,
+Schwaebe,Marvin Schwaebe,3,Deutschland,27,40
+HornT,Timo Horn,3,Deutschland,29,20
+Urbig,Jonas Urbig,3,Deutschland,18,3
+Koebbing,Matthias Koebbing,3,Deutschland,25,0
+Huebers,Timo Huebers,3,Deutschland,25,75
+Kilian,Luca Kilian,3,Deutschland,22,45
+Mere,Jorge Mere,3,Spanien,25,25
+Chabot,Julian Chabot,3,Deutschland,24,20
+Arrey-Mbi,Bright-Akwo Arrey-Mbi,3,Deutschland,19,13
+Czichos,Rafael Czichos,3,Deutschland,32,10
+Hector,Jonas Hector,3,Deutschland,32,35
+HornJ,Jannes Horn,3,Deutschland,25,18
+Katterbach,Noah Katterbach,3,Deutschland,21,17
+Schmitz,Benno Schmitz,3,Deutschland,27,30
+Ehizibue,Kingsley Ehizibue,3,Nigeria,27,13
+Skhiri,Ellyes Skhiri,3,Tunesien,27,130
+Ljubicic,Dejan Ljubicic,3,Oesterreich,24,75
+Oezcan,Salih Oezcan,3,Tuerkei,24,130
+Hauptmann,Niklas Hauptmann,3,Deutschland,26,4
+Olesen,Mathias Olesen,3,Luxemburg,21,4
+Duda,Ondrej Duda,3,Slowakei,27,40
+Schaub,Louis Schaub,3,Oesterreich,27,18
+Ostrak,Tomas Ostrak,3,Tschechien,22,8
+Kainz,Florian Kainz,3,Oesterreich,29,35
+Obuz,Marvin Obuz,3,Deutschland,20,3
+Thielmann,Jan Thielmann,3,Deutschland,20,75
+Schindler,Kingsley Schindler,3,Deutschland,28,8
+Uth,Mark Uth,3,Deutschland,30,30
+Modeste,Anthony Modeste,3,Frankreich,34,30
+Andersson,Sebastian Andersson,3,Schweden,30,20
+Lemperle,Tim Lemperle,3,Deutschland,20,20
+none,privat beraten,1,,,
 PROProfil,PRO Profil GmbH,1,Deutschland,,
 BMS,BMS Sportconsulting GmbH,1,Deutschland,,
 Talcon,Talcon Management GmbH,1,Deutschland,,
+Quilon,Manuel Garcia Quilon,1,Spanien,,
 Sports360,Sports360 GmbH,1,Deutschland,,
 VV,VV Consulting ,1,Monaco,,
 ATG,ATG Sports Management Inc,1,Kanada,,
 ICMStellar,ICM Stellar Sports,1,England,,
 Carmenta,Carmenta,1,Frankreich,,
-none,privat beraten,1,,,
+BALLWERK,BALLWERK Sports GmbH,1,Deutschland,,
+Wasserman,Wasserman,1,USA,,
+Promoesport,Promoesport,1,Andorra,,
+Neubauer13,Neubauer 13 GmbH,1,Deutschland,,
+ROGON,ROGON,1,Deutschland,,
+CastagninoSAS,Eric Castagnino SAS,1,Frankreich,,
+11WINS,11WINS GmbH,1,Deutschland,,
+ROOF,ROOF,1,Deutschland,,
+LIAN,LIAN Sports Group,1,Irland,,
+Koegl,Koegl und Partner GmbH,1,Deutschland,,
+Zahavi,Pini Zahavi,1,Israel,,
+TuB,Talents & Pros by Solutions,1,Deutschland,,
+KuR,Kick & Run Sports,1,Deutschland,,
+LS,LS Football,1,Italien,,
+YAATS,YA'ATS Sports,1,Frankreich,,
+Haspel,Haspel Sportconsulting,1,Deutschland,,
+Rummenigge,Rummenigge Sport Marketing,1,Deutschland,,
+SBE,SBE Managemant AG,1,Schweiz,,
+SWSports,SWSports,1,Deutschland,,
+Unique,Unique Sports Group,1,England,,
+Hebel,Dirk Hebel,1,Deutschland,,
+Teamgeist,Teamgeist Sportmanagement GmbH,1,Deutschland,,
+Lorimanagement,Lorimanagement,1,Deutschland,,
+HMH,HMH Sportsmanagement,1,Deutschland,,
+ISM,ISM Int. Soccer Mgmt. GmbH,1,Deutschland,,
+Pimenta,Rafaela Pimenta,1,Spanien,,
+IFM,International Football Management GmbH,1,Schweiz,,
+SD,SD Sportmanagement,1,Deutschland,,
+AKA,AKA Global GmbH,1,Deutschland,,
+Match2gether,Match2gether,1,Deutschland,,
+PIS,People in Sport,1,Dänemark,,
+KL,KL Sportbase,1,Deutschland,,
+Nomi,Nomi Sports,1,Schweiz,,
+H.S.P.,H.S.P. Sports-Management,1,Deutschland,,
+Tenet,Tenet Football,1,Deutschland,,
+Bertolucci,Bertolucci Sports,1,Brasilien,,
+Elite,Elite Project Group Ltd,1,England,,
+NOACK,NOACK Sports GmbH,1,Deutschland,,
+D20,D20 Sports,1,Portugal,,
+HuGu,Hu & Gu,1,Deutschland,,
+GSM,Global Soccer Management,1,Schweden,,
+Division,Futbol Division,1,Spanien,,
+SV,Soccer Vision,1,Niederlande,,
+Prolific,Prolific Sport Group,1,England,,
+CAA,CAA Base Ltd.,1,England,,
+EMG,EMG Mundial,1,Hamburg,,
+Eleven,Eleven Talent Group,1,Spanien,,
+Teamplayer,Teamplayer Sportmanagement,1,Deutschland,,
+Felicevich,Fernando Felicevich,1,Großbritannien,,
+AIS,AIS Sports Service,1,Frankreich,,
+Leite,Carlos Leite,1,Brasilien,,
+CSA,Concept Sport Agency,1,Frankreich,,
+IntSM,Int. Sport Management,1,Belgien,,
+Epic,Epic Sports,1,Portugal,,
+Soccertalk,Soccertalk GmbH,1,Deutschland,,
+Sam,Soccer and more,1,Deutschland,,
+NG360,NG360,1,Deutschland,,
+Extra,Extra Ball S.A.,1,Paraguay,,
+HCM,HCM Sports Managemen,1,Singapur,,
+BSGroup,BS Group - BS Law,1,Frankreich,,
+TrueSports,TrueSports GmbH,1,Deutschland,,
+CN,CN Sports,1,Deutschland,,
+MR,MR Sport Managemant GmbH,1,Deutschland,,
+Niagara,Niagara Sports Company,1,Bosnien-Herzogowia,,
+EM,EM Sports Consulting,1,Ungarn,,
+Gestifute,Gestifute,1,Portugal,,
+INVSPORT,INVSPORT Sergio Barila,1,Spanien,,
+MunichF,Munich Football Management,1,Deutschland,,
+PESM,PESM,1,Deutschland,,
+VIDA,VIDA 11,1,Deutschland,,
+SC,Sport Cover,1,Frankreich,,
+Skylar,Skylar,1,Deutschland,,
+Sisic,Marjan Sisic,1,Kroatien,,
+SBS,Sport Business SOCCER GbR,1,Deutschland,,
+PEP,PEP Consulting,1,Deutschland,,
+YMU,YMU Group,1,England,,
+Boutique,Boutique Transfers,1,Dänemark,,
+Herzog,Karl M. Herzog Sportmanagement,1,Deutschland,,
+SMG,SMG GmbH,1,Deutschland,,
+Fabryka,Fabryka Futbol,1,Polen,,
+NGM,NGM Sports,1,Deutschland,,
+eXcellence,Sports eXcellence Group,1,Deutschland,,
+BOKS,Björn O Krohn Sports,1,Deutschland,,
+UDN,UDN Sports,1,Japan,,
+B360,B360 Sports Agency,1,Deutschland,,
+Breeze,Breeze Sports GmbH,1,Deutschland,,
+SEG,SEG,1,Niederlande,,
+Atta,Emefie Aneka Atta,1,Norwegen,,
+KFM,KFM,1,Polen,,
+INTEAM,INTEAMSPORTS,1,Deutschland,,
+act,act SPORT GROUP,1,Kanada,,
+YOUFIRST,YOU FIRST ,1,Spanien,,
+Schneider,Robert Schneider,1,Deutschland,,
+Cherry,Cherry Sports,1,Belgien,,
+Euro,Eurosportsmanagement,1,Liechtenstein,,
+Apertura,Apertura Sports GmbH,1,Deutschland,,
+Profile,Sport Profile,1,Frankreich,,
+CALCYO,CALCYO,1,Deutschland,,
+Doorn,Armand Doorn,1,Deutschland,,
+TB,TBSportmarketing GmbH,1,Deutschland,,
+LK,LK Management,1,Deutschland,,
+HAGMAYR,HAGMAYR Sportmanagement,1,Österreich,,
+BMG,BMG-Sport,1,Polen,,
+T21,T21plus,1,Deutschland,,
+Gelu,Gelu Rodriguez,1,Spanien,,
