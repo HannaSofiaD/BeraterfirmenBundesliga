@@ -333,8 +333,8 @@ Griesbeck,Haspel,1
 Griesbeck,FCU,2
 Proemel,Unique,1
 Proemel,FCU,2
-Schneider,B360,1
-Schneider,FCU,2
+SchneiderF,B360,1
+SchneiderF,FCU,2
 Wszolek,KFM,1
 Wszolek,FCU,2
 Andrich,Teamplayer,1
@@ -383,11 +383,11 @@ Atubolu,none,1
 Atubolu,SCF,2
 Uphoff,Herzog,1
 Uphoff,SCF,2
-SchlotterbeckN,Schneider,1
+SchlotterbeckN,SchneiderR,1
 SchlotterbeckN,SCF,2
 Lienhart,YOUFIRST,1
 Lienhart,SCF,2
-SchlotterbeckK,Schneider,1
+SchlotterbeckK,SchneiderR,1
 SchlotterbeckK,SCF,2
 Gulde,none,1
 Gulde,SCF,2
