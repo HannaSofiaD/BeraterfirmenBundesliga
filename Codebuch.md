@@ -1,13 +1,13 @@
 # Beraterfirmen in der Bundesliga
 # Datensatz #
 Codebuch Beraterfirmen der Bundesligaspieler 
-Stand Pretest (21. Juni 2022)
+Stand Abgabe (27.09.2022)
 
 Erstellt von Hanna Damaschke (hd029) und Julian Rebmann (jr126)
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
+- buliedges.csv (Edgelist)
+- bulinodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
@@ -44,3 +44,6 @@ Sitz der Beratungsfirma oder Nationalität des Spielers.
 
 **age**   
 Alter des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
+
+**value**
+Marktwert des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
