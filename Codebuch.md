@@ -45,5 +45,5 @@ Sitz der Beratungsfirma oder Nationalität des Spielers.
 **age**   
 Alter des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
 
-**value**
+**value**             
 Marktwert des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
