@@ -1,0 +1,351 @@
+---
+title: "Beraternetzwerk Fußball-Bundesliga"
+author: "Hanna Damaschke (hd029), Theresa Fürst (tf052), Julian Rebmann (jr126)"
+date: "04/10/2022"
+output: 
+  html_document: 
+    number_sections: yes
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Unser Projekt
+
+Wir möchten das Beraternetzwerk der Spieler aus den Top 7 Vereinen der Fußball-Bundesliga untersuchen. Dazu beschäftigen wir uns mit den Top 7 Vereinen, den Spielern, die am 30.6.2022 bei diesen Vereinen unter Vertrag standen sowie deren Berater(firmen).
+
+## Unser Team
+
+Projektleitung: Julian Rebmann
+
+Team: Hanna Damaschke, hd029 Theresa Fürst, tf052 Julian Rebmann, jr126
+
+# Abstract und Keywords
+
+# Einleitung
+
+# Vorarbeiten und vergleichbare Studien
+## Forschungsstand
+
+## Arbeitshypothesen
+
+# Datenerhebung: Zugang, Bereinigung und Codebuch
+
+## Datenzugang
+
+Die Daten wurden via www.transfermarkt.de erhoben und durch Informationen auf den jeweiligen Beraterfirmen-Websites ergänzt.
+
+## Bereinigung des Datensatzes
+
+## Codebuch
+
+Die Dateien liegen in unserem [github-Verzeichnis](https://github.com/HannaSofiaD/BeraterfirmenBundesliga).
+
+Codierungsregeln:
+
+-   Bis auf die Namen werden alle Daten numerisch erhoben.
+-   Es werden keine Sonderzeichen verwendet.
+
+# Analyse und Interpretation
+
+## Das Gesamtnetzwerk
+
+Das Gesamtnetzwerk umfasst 865 Knoten und 1262 Beziehungen (siehe igraph-Objekt). Es ist gerichtet und gewichtet.
+
+
+```{r Datensatz einlesen, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library("igraph")
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/HannaSofiaD/BeraterfirmenBundesliga/main/buliedges.csv", header=T, as.is=T, sep = ",")
+
+nodes <- read.csv("https://raw.githubusercontent.com/HannaSofiaD/BeraterfirmenBundesliga/main/bulinodes.csv", header=T, as.is=T, sep = ",")
+
+# Erstellen einer Matrix
+edgematrix <-as.matrix(edges)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt berater
+berater <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+berater
+```
+
+```{r Beschreibung des Netzwerks}
+# Parameter zu Beschreibung des Netzwerks
+
+## ist das Netzwerk bereits vereinfacht?
+is.simple(berater)
+
+## besteht das Netzwerk aus Komponenten?
+## wenn ja, wie vielen?
+is.connected(berater)
+# components(berater)
+
+## Dichte des Netzwerks
+edge_density(berater, loops=FALSE)
+
+## Umfang des Netzwerks
+diameter(berater)
+
+## Pfaddistanzen (Distance)
+farthest_vertices(berater)
+```
+Das Hauptnetzwerk besteht aus einer Komponenten mit, das heißt, dass alle Knoten im Netzwerk miteinander verbunden sind. Die Dichte im Netzwerk beträgt 0,34 Prozent von allen möglichen Verbindungen. Die maximale Pfaddistanz beträgt 8 Schritte.
+
+```{r Vertex- und Edge-Attribute}
+list.vertex.attributes(berater)
+list.edge.attributes(berater)
+```
+
+Wir haben für das Netzwerk folgende Attribute erhoben (siehe Codebuch):
+
+**Node-Attribute**
+
+-   name: Name der Beraterfirma, des Vereins oder des Spielers als klar Bezeichnung des Knotens.
+-   type: Art des Knotens: 1 = Beraterfirma, 2 = Verein, 3 = Spieler
+-   country: Sitz der Beratungsfirma oder Nationalität des Spielers
+-   age: Alter des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer
+-   value: Marktwert des Spielers via www.transfermarkt.de, bei Beraterfirma und Verein bleibt diese Zeile leer
+
+**Edge-Attribute**
+
+-   relationship: Art der Geschäftsbeziehung: 1 = Spieler zu Beratungsfirma, 2 = Spieler zu Verein
+- rank: Platzierung des Vereins in der Saison 2021/22
+
+# Einfache Visualisierung mit igraph
+
+```{r Einfache Visualisierung des erstellten Objekt, fig.height=10, fig.width=14, message=TRUE, warning=TRUE, paged.print=TRUE}
+
+# Pro-Tipp: die Ausgabe jedes "chunks" lässt sich über das Rädchen direkt unter der Chunk-Beschreibung einstellen. Hier habe ich die Bildfläche auf 10 auf 16 Inches eingestellt, d.h. das Netzwerk wird automatisch auf eine Fläche von 10 auf 16 Inches geplottet. Für den Anfang empfehle ich immer bei Netzwerken bis 50 Knoten mit dem Kamada-Kawai Algorithmus zu arbeiten, weil hier die Knoten immer an die gleiche Position gesetzt werden und wir dadurch Abweichungen besser erkennen können.
+
+plot(berater,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     main ="Übersicht Gesamtnetzwerk")
+```
+
+# Übersichtlichere Visualisierung mit visNetwork
+Der erste Überblick zeigt, dass eine Visualisierung des Gesamtnetzwerks mit igraph aufgrund der hohen Anzahl an Knoten und Kanten sehr unübersichtlich ist. Darum haben wir uns für das Tool "VisNetwork" entschieden, womit wir das Gesamtnetzwerk deutlich detaillierter darstellen können. 
+
+```{r Visualisierung mit visNetwork}
+
+# Einstellung für two-mode Netzwerk aktivieren
+vertex.attributes(berater)$type
+
+# Knoten entsprechend der Typen einfärben
+V(berater)[V(berater)$type == 1]$color <- "red"  
+V(berater)[V(berater)$type == 2]$color <- "green"
+V(berater)[V(berater)$type == 3]$color <- "blue"
+# V(berater)[V(berater)$type == 1]$shape <- "square"
+
+
+# Größe der Knoten anpassen
+V(berater)$size <- degree(berater)*2 
+
+# Dicke der Kanten anpassen
+E(berater)[E(berater)$relationship == "1"]$width <- 2
+E(berater)[E(berater)$relationship == "2"]$width <- 4
+
+
+# Übersichtliche Visualisierung
+library(visNetwork)
+# beraternetzwerk <- 
+visIgraph(berater)
+
+# Als HTML speichern
+# visSave(beraternetzwerk, file = "beraternetzwerk.html")
+
+```
+
+# Teilnetzwerke
+Die Visualisierung ist jetzt zwar deutlich angenehmer zu betrachten, beinhaltet allerdings immer noch sehr viele Knoten. Darum und um das Netzwerk in seinen Einzelteilen besser analysieren zu können, erstellen wir verschiedene Teilnetzwerke.
+
+```{r Teilnetzwerke erstellen}
+
+# berateronly <- subgraph.edges(berater, E(berater)[relationship==1]) 
+# vereineonly <- subgraph.edges(berater, E(berater)[relationship==2])
+
+# Teilnetzwerke nach Vereinen
+cl <- subgraph.edges(berater, E(berater)[rank<=14, rank==21]) #Alle Spieler (inklusive ihrer Beraterfirmen) und Vereine, die in der Saison 22/23 in der Champions League spielen 
+el <- subgraph.edges(berater, E(berater)[rank==15, rank==16, rank==17]) #Alle Spieler (inklusive ihrer Beraterfirmen) und Vereine, die in der Saison 22/23 in der Europa League oder Europa Conference League spielen 
+last3 <- subgraph.edges(berater, E(berater)[rank>=26]) #Alle Spieler (inklusive ihrer Beraterfirmen) und Vereine, die die Saison 21/22 auf einem der letzten drei Tabellenplätze abgeschlossen haben
+
+# Ego-Netzwerke der wichtigsten Berateragenturen
+ROOF <- subgraph.edges(berater, E(berater)[label=="ROOF"]) #Alle Spieler, die von der Agentur "ROOF" beraten werden
+ROGON <- subgraph.edges(berater, E(berater)[label=="ROGON"]) #Alle Spieler, die von der Agentur "ROGON" beraten werden
+
+# Netzwerk der Spieler, die sich privat beraten lassen
+none <- subgraph.edges(berater, E(berater)[label=="none"])
+
+# Ego-Netzwerke der Nationalitäten
+vertex_attr(berater)$country
+GER <- delete_vertices(berater, V(berater)[country!= "Deutschland"]) #Alle deutschen Spieler und Agenturen
+AUT <- delete_vertices(berater, V(berater)[country!= "Oesterreich"]) #Alle österreichischen Spieler und Agenturen
+FRA <- delete_vertices(berater, V(berater)[country!= "Frankreich"]) #Alle französischen Spieler und Agenturen
+ESP <- delete_vertices(berater, V(berater)[country!= "Spanien"]) #Alle spanischen Spieler und Agenturen
+JAP <- delete_vertices(berater, V(berater)[country!= "Japan"]) #Alle japanischen Spieler und Agenturen
+
+
+# berateronly
+# vereineonly
+# cl
+# el
+# last3
+# Oesis
+
+library(visNetwork)
+# visIgraph(berateronly)
+# visIgraph(vereineonly)
+visIgraph(championsleague)
+visIgraph(europaleague)
+visIgraph(last3)
+visIgraph(Oesis)
+visIgraph(ROOF)
+visIgraph(ROGON)
+visIgraph(none)
+visIgraph(GER)
+visIgraph(AUT)
+visIgraph(FRA)
+visIgraph(ESP)
+visIgraph(JAP)
+
+```
+
+```{r igraph}
+# plot(berater, layout=layout.graphopt(berater), asp=0, rescale=TRUE, vertex.frame.color=NA, vertex.label.color="black", vertex.label.cex=0.5, vertex.size=degree(berater)*2, edge.arrow.size=.5, edge.color="black", main="Beraternetzwerk Bundesliga")
+
+```
+
+```{r Ego-Netzwerk erstellen, fig.height=12, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+# Ego-Netzwerk für Knoten mit höchstem Degree-Wert
+# selektiert aus dem Netzwerk alle Knoten, die privat beraten werden.
+# king <- make_ego_graph(berater, order = 1, nodes = V(d)$name == "privat beraten", mode="all")
+# Zwischenschritt, damit das igraph-Objekt von king1 hergestellt ist
+# king1 <- king[[1]]
+# king1
+# Visualisierung
+# plot(king1,
+#     asp=0,
+#     layout=layout_nicely,
+#     main="Ego-Netzwerk von Knoten mit höchstem Degree-Wert, erster Grad",
+#     vertex.color="orange",
+#     vertex.frame.color="black",
+#     vertex.label.color="black",
+#     vertex.label.cex=1,
+#     edge.color="black",
+#     edge.curved=.1,
+#     edge.curved=curve_multiple(king1),
+#     sub="privat beraten hat den höchsten Degree-Wert")
+```
+
+```{r Degree, fig.height=10, fig.width=15, message=FALSE, warning=FALSE, paged.print=FALSE}
+E(berater)$arrow.size <- .2 
+# Einfache Berechnung des Degree als Gesamtwert
+# db <- degree(berater)
+# db
+# which.max(db)
+```
+
+```{r Zentralität: Degree-Werte zentralisiert}
+#Knoten mit den stärksten Beziehungen im Gesamtnetzwerk
+# degree(berater, mode="all", normalized = TRUE)
+# which.max(degree(berater, mode="all"))
+```
+
+```{r Zentralität: Indegree als Popularitätsmaß}
+# Gesamtnetzwerk
+# zeigt die normalisierte Indegree-Verteilung im Gesamtnetzwerk
+# degree(berater, mode="in", normalized = TRUE)
+# liefert den Knoten mit der höchsten Anzahl von starken Beziehungen
+# which.max(degree(berater, mode="in"))
+```
+
+
+```{r Komponentenanalyse, fig.height=15, fig.width=20}
+count_components(berater)
+```
+
+Da unser Gesamtnetzwerk nur eine Komponente hat, müssen hier wir keine weitere Analyse (z.B. der starken/schwachen Komponenten) vornehmen.
+
+```{r Clusteranalyse Gesamtnetzwerk, fig.height=15, fig.width=10}
+library(visNetwork)
+#In diesem Schritt wollen wir eine Clusteranalyse des Gesamtnetzwerks vornehmen und wenden dazu die Walktrapmethode an. 
+?cluster_walktrap
+berater
+b_cluster <- cluster_walktrap(berater)
+#Anschließend berechnen wir Modularität und die entsprechenden Teilgruppen.
+modularity(b_cluster)
+membership(b_cluster)
+#Nun visualisieren wir die Clusteranalyse des Gesamtnetzwerks. 
+plot(b_cluster,
+     berater,
+     vertex.label.color="black",
+     edge.arrow.size=.2, 
+     main="Clusteranalyse Walktrap-Methode")
+```
+
+```{r Communities erstellen, fig.height=12, fig.width=12}
+# Anzahl der Clusters
+clusters(berater)
+# Komponenten auftrennen
+b_comp <- decompose.graph(berater)
+b_comp
+# Komponenten neu benennen
+b_comp1 <- b_comp[[1]]
+# Berechnung der Cluster innerhalb der Komponente
+# erstellt die Berechnung für die Modularität und deren Teilgruppen
+cl <- cluster_walktrap(b_comp1)
+modularity(cl)
+membership(cl)
+# Clusterberechnung
+plot(b_comp1,
+     edge.arrow.size=.3,
+     vertex.color="grey75",
+     vertex.frame.color=NA,
+     main="Komponente 1 (via communities)")
+# Berechnung der Cluster innerhalb der Komponente
+# Was macht der communities Befehl?
+?communities()
+# Wir verwenden die oben erstellte Aufteilung der Cluster
+membership(cl)
+# mit dem Befehl sizes wird die Größe der jeweiligen Communities angezeigt
+sizes(cl)
+# und communities() liefert eine Zuordnung der jeweiligen Knoten auf die Communities
+communities(cl)
+# Achtung: das sind keine igraph-Objekte, sondern nur die Angaben der Knoten. 
+```
+
+```{r Dyadenzensus, fig.height=10, fig.width=15, message=FALSE, warning=FALSE, paged.print=TRUE}
+# Durchführung des Dyadenzensus
+dyad_census(berater)
+# Ausgabe der dyadischen Beziehungen nach dem MAN-Schema
+# M = Mutal (reziprok)
+# A = Asymmetrical (einseitig gerichtet)
+# N = Null (keine Beziehung)
+reciprocity(berater)
+m <- which_mutual(berater)
+m
+E(berater)$reciprocity <- m
+edge.attributes(berater)
+E(berater)$reciprocity  <- as.numeric(E(berater)$reciprocity)
+edge.attributes(berater)$reciprocity
+plot(berater, 
+     asp=0,
+     layout = layout_with_kk, 
+     edge.arrow.mode=2,
+     edge.arror.size=.1,
+     edge.curved=.2,
+     edge.curved=curve_multiple(berater),
+     vertex.color=NA,
+     vertex.frame.color=NA,
+     #edge.width=E(d)$weight/5, 
+     edge.color=c("lightblue", "NA")[(E(berater)$reciprocity=="0")+1],
+     main="vereinfachtes Gesamtnetzwerk", 
+     sub="Reziproke Beziehungen"
+     )
+```
+
