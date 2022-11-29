@@ -1,866 +1,870 @@
-id,name,type,country,age,value,category
-FCB,FC Bayern Muenchen,2,,,,
-Neuer,Manuel Neuer,3,Deutschland,36,150,rusty
-Ulreich,Sven Ulreich,3,Deutschland,33,9,rusty
-Fruechtl,Christian Fruechtl,3,Deutschland,22,6,young
-Hoffmann,Ron-Thorben Hoffmann,3,Deutschland,22,5,young
-Hernandez,Lucas Hernandez,3,Frankreich,26,500,mid
-Upamecano,Dayot Upamecano,3,Frankreich,23,400,young
-Suele,Niklas Suele,3,Deutschland,26,350,mid
-Nianzou,Tanguy Nianzou,3,Frankreich,20,90,young
-RichardsC,Chris Richards,3,USA,22,75,young
-Lawrence,Jamie Lawrence,3,Deutschland,19,10,teen
-Feldhahn,Nicolas Feldhahn,3,Deutschland,35,1,rusty
-Davies,Alphonso Davies,3,Kanada,21,700,young
-RichardsO,Omar Richards,3,England,24,70,mid
-Pavard,Benjamin Pavard,3,Frankreich,26,300,mid
-Stanisic,Josip Stanisic,3,Kroatien,22,40,young
-Sarr,Bouna Sarr,3,Senegal,30,25,old
-Kimmich,Joshua Kimmich,3,Deutschland,27,800,mid
-Roca,Marc Roca,3,Spanien,25,70,mid
-Booth,Taylor Booth,3,USA,21,10,young
-Goretzka,Leon Goretzka,3,Deutschland,27,650,mid
-Sabitzer,Marcel Sabitzer,3,Oesterreich,28,150,old
-Tolisso,Corentin Tolisso,3,Frankreich,27,150,mid
-Cuisance,Michael Cuisance,3,Frankreich,22,40,young
-Kern,Timo Kern,3,Deutschland,32,2,rusty
-Musiala,Jamal Musiala,3,Deutschland,19,650,teen
-Wanner,Paul Wanner,3,Deutschland,16,20,teen
-TillmanM,Malik Tillman,3,USA,20,15,young
-Sane,Leroy Sane,3,Deutschland,26,600,mid
-Motika,Nemanja Motika,3,Serbien,19,12,teen
-Ibrahimovic,Arijon Ibrahimovic,3,Deutschland,16,,teen
-Gnabry,Serge Gnabry,3,Deutschland,26,650,mid
-Coman,Kingsley Coman,3,Frankreich,26,600,mid
-MuellerT,Thomas Mueller,3,Deutschland,32,220,rusty
-Vidovic,Gabriel Vidovic,3,Kroatien,18,30,teen
-Lewandowski,Robert Lewandowski,3,Polen,33,450,rusty
-Choupo-Moting,Eric Maxim Choupo-Moting,3,Kamerun,33,30,rusty
-Copado,Lucas Copado,3,Deutschland,18,10,teen
-BVB,Borussia Dortmund,2,,,,
-Kobel,Gregor Kobel,3,Schweiz,24,220,mid
-Unbehaun,Luca Unbehaun,3,Deutschland,21,15,young
-Buerki,Roman Buerki,3,Schweiz,31,15,old
-Hitz,Marwin Hitz,3,Schweiz,34,10,rusty
-Drljaca,Stefan Drljaca,3,Deutschland,23,2,young
-Ostrzinski,Silas Ostrzinski,3,Deutschland,18,,teen
-Akanji,Manuel Akanji,3,Schweiz,26,300,mid
-Zagadou,Dan-Axel Zagadou,3,Frankreich,23,90,young
-Hummels,Mats Hummels,3,Deutschland,33,65,rusty
-Pongracic,Marin Pongracic,3,Kroatien,24,60,mid
-CoulibalyS,Soumaila Coulibaly,3,Frankreich,18,8,teen
-Maloney,Lennard Maloney,3,USA,22,4,young
-Papadopoulos,Antonios Papadopoulos,3,Deutschland,22,4,young
-Guerreiro,Raphael Guerreiro,3,Portugal,28,250,old
-SchulzN,Nico Schulz,3,Deutschland,29,40,old
-Rothe,Tom Rothe,3,Deutschland,17,12,teen
-Schmelzer,Marcel Schmelzer,3,Deutschland,34,5,rusty
-Meunier,Thomas Meunier,3,Belgien,30,65,old
-Morey,Mateu Morey Bauza,3,Spanien,22,40,young
-Passlack,Felix Passlack,3,Deutschland,24,15,mid
-Semic,Lion Semic,3,Deutschland,18,5,teen
-Can,Emre Can,3,Deutschland,28,160,old
-Delaney,Thomas Delaney,3,Daenemark,30,70,old
-Witsel,Axel Witsel,3,Belgien,33,40,rusty
-Kamara,Abdoulaye Kamara,3,Guinea,17,10,teen
-Bellingham,Jude Bellingham,3,England,18,800,teen
-Dahoud,Mahmoud Dahoud,3,Deutschland,26,180,mid
-Pasalic,Marco Pasalic,3,Kroatien,21,3,young
-Reyna,Giovanni Reyna,3,USA,19,350,teen
-Brandt,Julian Brandt,3,Deutschland,26,250,mid
-Reus,Marco Reus,3,Deutschland,33,110,rusty
-Reinier,Reinier,3,Brasilien,20,80,young
-Pherai,Immanuel Pherai,3,Niederlande,21,7,young
-Guerpuez,Goektan Guerpuez,3,Deutschland,19,3,teen
-Hazard,Thorgan Hazard,3,Belgien,29,150,old
-Knauff,Ansgar Knauff,3,Deutschland,20,100,young
-WolfM,Marius Wolf,3,Deutschland,27,65,mid
-Bynoe-Gittens,Jamie Bynoe-Gittens,3,England,17,40,teen
-Haaland,Erling Haaland,3,Norwegen,21,1500,young
-Malen,Donyell Malen,3,Niederlande,23,270,young
-Moukoko,Youssoufa Moukoko,3,Deutschland,17,150,teen
-Tigges,Steffen Tigges,3,Deutschland,23,15,young
-Nijnmah,Justin Nijnmah,3,Deutschland,21,4,young
-LEV,Bayer 04 Leverkusen,2,,,,
-Hradecky,Lukas Hradecky,3,Finnland,32,50,rusty
-Lunev,Andrey Lunev,3,Russland,30,25,old
-Grill,Lennart Grill,3,Deutschland,23,10,young
-Lomb,Niklas Lomb,3,Deutschland,28,3,old
-Neutgens,Maximilian Neutgens,3,Deutschland,18,,teen
-Tapsoba,Edmond Tapsoba,3,Burkina Faso,23,350,young
-Tah,Jonathan Tah,3,Deutschland,26,250,mid
-Kossounou,Odilon Kossounou,3,Elfenbeinkueste,21,200,young
-Hincapie,Piero Hincapie,3,Ecuador,20,170,young
-Retsos,Panagiotis Retsos,3,Griechenland,23,28,young
-Fofana,Sadik Fofana,3,Togo,19,,teen
-Bakker,Mitchel Bakker,3,Niederlande,22,140,young
-Wendell,Wendell,3,Brasilien,28,50,old
-Sinkgraven,Daley Sinkgraven,3,Niederlande,26,40,mid
-Frimpong,Jeremie Frimpong,3,Niederlande,21,200,young
-Fosu-Mensah,Timothy Fosu-Mensah,3,Niederlande,24,40,mid
-Weiser,Mitchell Weiser,3,Deutschland,28,15,old
-Baumgartlinger,Julian Baumgartlinger,3,Oesterreich,34,8,rusty
-Demirbay,Kerem Demirbay,3,Deutschland,28,150,old
-Palacios,Exequiel Palacios,3,Argentinien,23,150,young
-Andrich,Robert Andrich,3,Deutschland,27,130,mid
-Amiri,Nadiem Amiri,3,Deutschland,25,80,mid
-Aranguiz,Charles Aranguiz,3,Chile,33,35,rusty
-Sertdemir,Zidan Sertdemir,3,Norwegen,17,20,teen
-Wirtz,Florian Wirtz,3,Deutschland,19,700,teen
-Diaby,Moussa Diaby,3,Frankreich,22,600,young
-Paulinho,Paulinho,3,Brasilien,21,110,young
-Adli,Amine Adli,3,Frankreich,22,120,young
-Bellarabi,Karim Bellarabi,3,Deutschland,32,30,rusty
-Schick,Patrik Schick,3,Tschechien,26,500,mid
-Azmoun,Sardar Azmoun,3,Iran,27,220,mid
-Alario,Lucas Alario,3,Argentinien,29,80,old
-Pohjanpalo,Joel Pohjanpalo,3,Finnland,27,25,mid
-Gedikli,Emrehan Gedikli,3,Deutschland,19,12,teen
-Bravo,Iker Bravo,3,Spanien,17,10,teen
-RBL,RB Leipzig,2,,,,
-Gulacsi,Peter Gulacsi,3,Ungarn,32,80,rusty
-Martinez,Josep Martinez,3,Spanien,24,22,mid
-Tschauner,Philipp Tschauner,3,Deutschland,36,3,rusty
-Eutinger,Fabian Eutinger,3,Deutschland,18,1,teen
-Gvardiol,Josko Gvardiol,3,Kroatien,20,350,young
-Simakan,Mohamed Simakan,3,Frankreich,22,220,young
-Klostermann,Lukas Klostermann,3,Deutschland,26,180,mid
-Orban,Willi Orban,3,Ungarn,29,100,old
-Lelle,David Lelle,3,Deutschland,19,,teen
-Angelino,Angelino,3,Spanien,25,300,mid
-Halstenberg,Marcel Halstenberg,3,Deutschland,30,50,old
-Mukiele,Nordi Mukiele,3,Frankreich,24,200,mid
-Henrichs,Benjamin Henrichs,3,Deutschland,25,140,mid
-Bonnah,Solomon Bonnah,3,Niederlande,18,8,teen
-AdamsT,Tyler Adams,3,USA,23,170,young
-Laimer,Konrad Laimer,3,Oesterreich,25,280,mid
-Haidara,Amadou Haidara,3,Mali,24,240,mid
-Moriba,Ilaix Moriba,3,Guinea,19,90,teen
-Kampl,Kevin Kampl,3,Slowenien,31,60,old
-Raebiger,Sidney Raebiger,3,Deutschland,17,8,teen
-Klefisch,Ben Klefisch,3,Deutschland,19,2,teen
-Olmo,Dani Olmo,3,Spanien,24,400,mid
-Wosz,Joscha Wosz,3,Deutschland,19,4,teen
-Szoboszlai,Dominik Szoboszlai,3,Ungarn,21,280,young
-Forsberg,Emil Forsberg,3,Schweden,30,110,old
-Ibrahimi,Mehmet Ibrahimi,3,Deutschland,19,,teen
-Novoa,Hugo Novoa,3,Spanien,19,30,teen
-Hartmann,Fabrice Hartmann,3,Deutschland,21,3,young
-Nkunku,Christopher Nkunku,3,Frankreich,24,800,mid
-Silva,Andre Silva,3,Portugal,26,320,mid
-Hwang,Hee-chan Hwang,3,Suedkorea,26,160,mid
-Poulsen,Yussuf Poulsen,3,Daenemark,28,140,old
-Brobbey,Brian Brobbey,3,Niederlande,20,90,young
-FCU,1 FC Union Berlin,2,,,,
-Roennow,Frederik Roennow,3,Daenemark,29,20,old
-Luthe,Andreas Luthe,3,Deutschland,35,8,rusty
-Busk,Jakob Busk,3,Daenemark,28,3,old
-Petzsch,Niklas Petzsch,3,Deutschland,18,,teen
-Stein,Yannic Stein,3,Deutschland,17,,teen
-Jaeckel,Paul Jaeckel,3,Deutschland,23,50,young
-Baumgartl,Timo Baumgartl,3,Deutschland,26,50,mid
-Knoche,Robin Knoche,3,Deutschland,30,50,old
-Heintz,Dominique Heintz,3,Deutschland,28,25,old
-van Drongelen,Rick van Drongelen,3,Niederlande,23,15,young
-Bruns,Mathis Bruns,3,Deutschland,18,2,teen
-Puchacz,Tymoteusz Puchacz,3,Polen,23,23,young
-Giesselmann,Niko Giesselmann,3,Deutschland,30,23,old
-Oczipka,Bastian Oczipka,3,Deutschland,33,6,rusty
-Ryerson,Julian Ryerson,3,Norwegen,24,40,mid
-Trimmel,Christopher Trimmel,3,Oesterreich,35,9,rusty
-Dehl,Laurenz Dehl,3,Deutschland,20,3,young
-Khedira,Rani Khedira,3,Deutschland,28,60,old
-Proemel,Grischa Proemel,3,Deutschland,27,75,mid
-SchaeferA,Andras Schaefer,3,Ungarn,23,20,young
-Oeztunali,Levin Oeztunali,3,Deutschland,26,15,mid
-Moehwald,Kevin Moehwald,3,Deutschland,28,15,old
-SchneiderF,Fabio Schneider,3,Deutschland,19,2,teen
-Somnitz,Maximilian Somnitz,3,Deutschland,19,2,teen
-Wszolek,Pawel Wszolek,3,Polen,30,12,old
-Haraguchi,Genki Haraguchi,3,Japan,31,25,old
-EndoK,Keita Endo,3,Japan,24,9,mid
-Becker,Sheraldo Becker,3,Suriname,27,70,mid
-Awoniyi,Taiwo Awoniyi,3,Nigeria,24,200,mid
-Voglsammer,Andreas Voglsammer,3,Deutschland,30,12,old
-MichelS,Sven Michel,3,Deutschland,31,12,old
-Teuchert,Cedric Teuchert,3,Deutschland,25,9,mid
-Behrens,Kevin Behrens,3,Deutschland,31,9,old
-Ujah,Anthony Ujah,3,Nigeria,31,5,old
-Abdullahi,Suleiman Abdullahi,3,Nigeria,25,4,mid
-SCF,SC Freiburg,2,,,,
-Flekken,Mark Flekken,3,Niederlande,29,70,old
-Atubolu,Noah Atubolu,3,Deutschland,20,15,young
-Uphoff,Benjamin Uphoff,3,Deutschland,28,5,old
-SchlotterbeckN,Nico Schlotterbeck,3,Deutschland,22,330,young
-Lienhart,Philipp Lienhart,3,Oesterreich,25,180,mid
-SchlotterbeckK,Keven Schlotterbeck,3,Deutschland,25,30,mid
-Gulde,Manuel Gulde,3,Deutschland,31,17,old
-Sildillia,Kiliann Sildillia,3,Frankreich,20,15,young
-SchmidtK,Kenneth Schmidt,3,Deutschland,20,5,young
-Guenter,Christian Guenter,3,Deutschland,29,120,old
-Ezekwem,Kimberly Ezekwem,3,Deutschland,21,3,young
-Siquet,Hugo Siquet,3,Belgien,19,55,teen
-Kuebler,Lukas Kuebler,3,Deutschland,29,23,old
-Schmid,Jonathan Schmid,3,Frankreich,32,12,rusty
-Keitel,Yannik Keitel,3,Deutschland,22,40,young
-Hoefler,Nicolas Hoefler,3,Deutschland,32,25,rusty
-Engelhardt,Yannik Engelhardt,3,Deutschland,21,4,young
-Santamaria,Baptiste Santamaria,3,Frankreich,27,140,mid
-Eggestein,Maximilian Eggestein,3,Deutschland,25,80,mid
-Haberer,Janik Haberer,3,Deutschland,28,35,old
-Wagner,Robert Wagner,3,Deutschland,18,5,teen
-Grifo,Vincenzo Grifo,3,Italien,29,120,old
-Weisshaupt,Noah Weisshaupt,3,Deutschland,20,17,young
-Sallai,Roland Sallai,3,Ungarn,25,120,mid
-Schade,Kevin Schade,3,Deutschland,20,70,young
-Jeong,Woo-Yeong Jeong,3,Suedkorea,22,55,young
-Hoeler,Lucas Hoeler,3,Deutschland,27,65,mid
-Demirovic,Ermedin Demirovic,3,Bosnien-Herzegowina,24,60,mid
-Petersen,Nils Petersen,3,Deutschland,33,15,rusty
-Vermeij,Vincent Vermeij,3,Niederlande,27,4,mid
-Burkart,Nishan Burkart,3,Schweiz,22,4,young
-FCK,1 FC Koeln,2,,,,
-Schwaebe,Marvin Schwaebe,3,Deutschland,27,40,mid
-HornT,Timo Horn,3,Deutschland,29,20,old
-Urbig,Jonas Urbig,3,Deutschland,18,3,teen
-Koebbing,Matthias Koebbing,3,Deutschland,25,0,mid
-Huebers,Timo Huebers,3,Deutschland,25,75,mid
-Kilian,Luca Kilian,3,Deutschland,22,45,young
-Mere,Jorge Mere,3,Spanien,25,25,mid
-Chabot,Julian Chabot,3,Deutschland,24,20,mid
-Arrey-Mbi,Bright-Akwo Arrey-Mbi,3,Deutschland,19,13,teen
-Czichos,Rafael Czichos,3,Deutschland,32,10,rusty
-Hector,Jonas Hector,3,Deutschland,32,35,rusty
-HornJ,Jannes Horn,3,Deutschland,25,18,mid
-Katterbach,Noah Katterbach,3,Deutschland,21,17,young
-Schmitz,Benno Schmitz,3,Deutschland,27,30,mid
-Ehizibue,Kingsley Ehizibue,3,Nigeria,27,13,mid
-Skhiri,Ellyes Skhiri,3,Tunesien,27,130,mid
-Ljubicic,Dejan Ljubicic,3,Oesterreich,24,75,mid
-Oezcan,Salih Oezcan,3,Tuerkei,24,130,mid
-Hauptmann,Niklas Hauptmann,3,Deutschland,26,4,mid
-Olesen,Mathias Olesen,3,Luxemburg,21,4,young
-Duda,Ondrej Duda,3,Slowakei,27,40,mid
-Schaub,Louis Schaub,3,Oesterreich,27,18,mid
-Ostrak,Tomas Ostrak,3,Tschechien,22,8,young
-Kainz,Florian Kainz,3,Oesterreich,29,35,old
-Obuz,Marvin Obuz,3,Deutschland,20,3,young
-Thielmann,Jan Thielmann,3,Deutschland,20,75,young
-Schindler,Kingsley Schindler,3,Deutschland,28,8,old
-Uth,Mark Uth,3,Deutschland,30,30,old
-Modeste,Anthony Modeste,3,Frankreich,34,30,rusty
-Andersson,Sebastian Andersson,3,Schweden,30,20,old
-Lemperle,Tim Lemperle,3,Deutschland,20,20,young
-FSV,1 FSV Mainz 05,2,,,,
-Zentner,Robin Zentner,3,Deutschland,26,50,mid
-Dahmen,Finn Dahmen,3,Deutschland,23,15,young
-Rieß,Lasse Rieß,3,Deutschland,19,2,teen
-Niakhate,Moussa Niakhate,3,Senegal,25,180,mid
-St Juste,Jeremiah St Juste,3,Niederlande,24,160,mid
-Bell,Stefan Bell,3,Deutschland,29,25,old
-HackA,Alexander Hack,3,Deutschland,27,25,mid
-Nemeth,David Nemeth,3,Oesterreich,20,23,young
-Martin,Aaron Martin,3,Spanien,24,50,mid
-Lucoqui,Anderson Lucoqui,3,Angola,23,18,young
-Widmer,Silvan Widmer,3,Schweiz,28,50,old
-Brosinski,Daniel Brosinski,3,Deutschland,32,5,rusty
-Stach,Anton Stach,3,Deutschland,22,130,young
-Tauer,Niklas Tauer,3,Deutschland,20,15,young
-Fuerstner,Stephan Fuerstner,3,Deutschland,33,1,rusty
-Barreiro,Leandro Barreiro,3,Luxemberg,21,80,young
-Kohr,Dominik Kohr,3,Deutschland,27,50,mid
-Fernandes,Edimilson Fernandes,3,Schweiz,25,20,mid
-Papela,Merveille Papela,3,Deutschland,20,4,young
-Shabani,Eniss Shabani,3,Deutschland,18,2,teen
-Rupil,Timothe Rupil,3,Luxemberg,18,1,teen
-Boetius,Jean Paul Boetius,3,Niederlande,27,40,mid
-LeeJ,Jae sung Lee,3,Suedkorea,28,30,old
-Stoeger,Kevin Stoeger,3,Oesterreich,27,16,mid
-Burgzorg,Delano Burgzorg,3,Niederlande,22,20,young
-Bobzien,Ben Bobzien,3,Deutschland,18,3,teen
-Nebel,Paul Nebel,3,Deutschland,18,13,teen
-Mizuta,Kaio Mizuta,3,Japan,21,2,young
-Burkhardt,Jonathan Burkhardt,3,Deutschland,20,170,young
-Onisiwo,Karim Onisiwo,3,Oesterreich,29,35,old
-Ingvartsen,Marcus Ingvartsen,3,Daenemark,25,25,mid
-Szalai,Adam Szalai,3,Ungarn,33,5,rusty
-Roesch,Romario Roesch,3,Deutschland,22,2,young
-TSG,TSG 1899 Hoffenheim,2,,,,
-Baumann,Oliver Baumann,3,Deutschland,31,45,old
-Pentke,Philipp Pentke,3,Deutschland,36,3,rusty
-PhilippL,Luca Philipp,3,Deutschland,20,3,young
-Noll,Nahue Noll,3,Deutschland,20,3,young
-Posch,Stefan Posch,3,Oesterreich,24,100,mid
-Akpoguma,Kevin Akpoguma,3,Nigeria,26,60,mid
-Vogt,Kevin Vogt,3,Deutschland,29,35,old
-Che,Justin Che ,3,USA,17,30,teen
-Bicakcic,Ermin Bicakcic,3,Bosnien-Herzegowina,31,10,old
-Nordtveit,Havard Nordtveit,3,Norwegen,31,10,old
-AdamsK,Kasim Adams,3,Ghana,26,10,mid
-Huebner,Benjamin Huebner,3,Deutschland,31,10,old
-Haider,Gabriel Haider,3,Oesterreich,19,1,teen
-Koenig,Noah Koenig,3,Deutschland,18,1,teen
-Raum,David Raum,3,Deutschland,23,200,young
-John,Marco John,3,Deutschland,23,200,young
-Kaderabek,Pavel Kaderabek,3,Tschechien,29,50,old
-Grillitsch,Florian Grillitsch,3,Oesterreich,25,160,mid
-Stiller,Angelo Stiller,3,Deutschland,20,70,young
-Rudy,Sebastian Rudy,3,Deutschland,31,15,old
-Bogarde,Melayro Bogarde,3,Niederlande,19,12,teen
-Rueth,Fabian Rueth,3,Deutschland,19,1,teen
-Samassekou,Diadie Samassekou,3,Mali,25,16,mid
-Geiger,Dennis Geiger,3,Deutschland,23,90,young
-Tohumcu,Umut Tohumcu,3,Deutschland,16,2,teen
-Baumgartner,Christoph Baumgartner,3,Deutschland,21,220,young
-Gacinovic,Mijat Gacinovic,3,Serbien,26,25,mid
-Bischof,Tom Bischof,3,Deutschland,17,10,teen
-Bruun Larsen,Jacob Bruun Larsen,3,Daenemark,23,60,young
-Conte,Bambase Conte,3,Deutschland,18,2,teen
-Skov,Robert Skov,3,Daenemark,26,70,mid
-Bebou,Ihlas Bebou,3,Togo,28,160,old
-Rutter,Georginio Rutter,3,Frankreich,20,160,young
-Kramaric,Andrej Kramaric,3,Kroatien,31,120,old
-Dabbur,Munas Dabbur,3,Israel,30,40,old
-Adamyan,Sargis Adamyan,3,Armenien,29,35,old
-Beier,Maximilian Beier,3,Deutschland,19,30,teen
-Asllani,Fisnik Asllani,3,Deutschland,19,4,teen
-Proschwitz,Nick Proschwitz,3,Deutschland,35,2,rusty
-BMG,Borussia Moenchengladbach,2,,,,
-Sommer,Yann Sommer,3,Schweiz,33,50,rusty
-Sippel,Tobias Sippel,3,Deutschland,34,4,rusty
-Olschokowsky,Jan Olschokowsky,3,Deutschland,20,3,young
-Kersken,Jonas Kersken,3,Deutschland,21,1,young
-Ginter,Matthias Ginter,3,Deutschland,28,180,old
-Elvedi,Nico Elvedi,3,Schweiz,25,180,mid
-Friedrich,Marvin Friedrich,3,Deutschland,26,80,mid
-Beyer,Jordan Beyer,3,Deutschland,22,45,young
-Jantschke,Tony Jantschke,3,Deutschland,32,8,rusty
-Gaal,Tom Gaal,3,Deutschland,21,1,young
-Doucoure,Mamadou Doucoure,3,Frankreich,24,1,mid
-Bensebaini,Ramy Bensebaini,3,Algerien,27,17,mid
-Netz,Luca Netz,3,Deutschland,19,65,teen
-Scally,Joe Scally,3,USA,19,80,teen
-Lainer,Stefan Lainer,3,Oesterreich,29,45,old
-Zakaria,Denis Zakaria,3,Schweiz,25,270,mid
-Kramer,Christoph Kramer,3,Deutschland,31,25,old
-Neuhaus,Florian Neuhaus,3,Deutschland,25,200,mid
-Kone,Kouadio Kone,3,Frankreich,21,180,young
-Benes,Laszlo Benes,3,Slowakei,24,30,mid
-Bennetts,Keanan Bennetts,3,Deutschland,23,10,young
-WolfH,Hannes Wolf,3,Oesterreich,23,50,young
-Stindl,Lars Stindl,3,Deutschland,33,25,rusty
-Noss,Conor Noss,3,Irland,21,7,young
-Muesel,Torben Muesel,3,Deutschland,22,4,young
-Plea,Alassane Plea,3,Frankreich,29,150,old
-Schroers,Mika Schroers,3,Deutschland,20,1,young
-Hofmann,Jonas Hofmann,3,Deutschland,29,130,old
-Herrmann,Patrick Herrmann,3,Deutschland,31,23,old
-Thuram,Marcus Thuram,3,Frankreich,24,200,mid
-Embolo,Breel Embolo,3,Schweiz,25,150,mid
-EFF,Eintracht Frankfurt,2,,,,
-Trapp,Kevin Trapp,3,Deutschland,31,70,old
-Ramaj,Diant Ramaj,3,Deutschland,20,8,young
-Horz,Jannik Horz,3,Deutschland,19,2,teen
-Grahl,Jens Grahl,3,Deutschland,33,2,rusty
-Bignetti,Matteo Bignetti,3,Deutschland,33,3,rusty
-Ndicka,Evan Ndicka,3,Frankreich,22,320,young
-Tuta,Tuta,3,Brasilien,22,130,young
-Hinteregger,Martin Hinteregger,3,Oesterreich,29,90,old
-Toure,Almany Toure,3,Mali,26,35,mid
-Hasebe,Makoto Hasebe,3,Japan,38,8,rusty
-Lenz,Christopher Lenz,3,Deutschland,27,40,mid
-Schroeder,Jan Schroeder,3,Deutschland,19,2,teen
-da Costa,Danny da Costa,3,Deutschland,28,23,old
-Durm,Erik Durm,3,Deutschland,30,12,old
-Chandler,Timothy Chandler,3,USA,32,12,rusty
-Jakic,Kristijan Jakic,3,Kroatien,25,90,mid
-Ilsanker,Stefan Ilsanker,3,Oesterreich,33,10,rusty
-Sow,Djibril Sow,3,Schweiz,25,220,mid
-Rode,Sebastian Rode,3,Deutschland,31,25,old
-Barkok,Aymen Barkok,3,Deutschland,24,18,mid
-Foti,Antonia Foti,3,Zypern,18,4,teen
-Kostic,Filip Kostic,3,Serbien,29,240,old
-Kamada,Daichi Kamada ,3,Japan,25,220,mid
-Lindstroem,Jesper Lindstroem,3,Daenemark,22,170,young
-Hrustic,Ajdin Hrustic,3,Australien,25,30,mid
-Zuber,Steven Zuber,3,Schweiz,30,25,old
-Younes,Amin Younes,3,Deutschland,28,15,old
-SchaeferG,Gianluca Schaefer,3,Deutschland,19,2,teen
-Hauge,Jens Petter Hauge,3,Norwegen,22,80,young
-Borre,Rafael Borre,3,Kolumbien,26,200,mid
-Paciencia,Goncalo Paciencia,3,Portugal,27,30,mid
-Lammers,Sam Lammers,3,Niederlande,25,30,mid
-Ache,Ragnar Ache,3,Deutschland,23,15,young
-Herrero,Enrique Herrero,3,Spanien,17,3,teen
-WOB,VfL Wolfsburg,2,,,,
-Casteels,Koen Casteels,3,Belgien,29,110,old
-Pervan,Pavao Pervan,3,Oesterreich,33,6,rusty
-Schulze,Philipp Schulze,3,Deutschland,18,2,teen
-Klinger,Niklas Klinger,3,Deutschland,25,1,mid
-Lacroix,Maxence Lacroix,3,Frankreich,21,200,young
-Bornauw,Sebastiaan Bornauw,3,Belgien,22,100,young
-Brooks,John Anthony Brooks,3,USA,28,70,old
-van de Ven,Micky van de Ven,3,Niederlande,20,40,young
-MacNulty,Anselmo Garcia MacNulty,3,Irland,18,3,teen
-Lang,Jannis Lang,3,Deutschland,18,2,teen
-Otavio,Paulo Otavio,3,Brasilien,26,60,mid
-Roussillon,Jerome Roussillon,3,Frankreich,28,45,old
-Baku,Ridle Baku,3,Deutschland,23,200,young
-Mbabu,Kevin Mbabu,3,Schweiz,26,90,mid
-William,William,3,Brasilien,26,25,mid
-Guilavogui,Josuha Guilavogui,3,Frankreich,30,35,old
-Schlager,Xaver Schlager,3,Oesterreich,23,270,young
-Arnold,Maximilian Arnold,3,Deutschland,27,170,mid
-Vranckx,Aster Vranckx,3,Belgien,18,100,teen
-Gerhardt,Yannick Gerhardt,3,Deutschland,27,60,mid
-Walther,Gil-Linnart Walther,3,Deutschland,18,,teen
-Paredes,Kevin Paredes,3,USA,18,50,teen
-NmechaF,Felix Nmecha,3,Deutschland,20,20,young
-Brekalo,Josip Brekalo,3,Kroatien,23,150,young
-Marmoush,Omar Marmoush,3,Aegypten,22,60,young
-Steffen,Renato Steffen,3,Schweiz,29,20,old
-Waldschmidt,Luca Waldschmidt,3,Deutschland,25,70,mid
-PhilippM,Maximilian Philipp,3,Deutschland,27,45,mid
-Kruse,Max Kruse,3,Deutschland,33,35,rusty
-Mehmedi,Admir Mehmedi,3,Schweiz,30,10,old
-NmechaL,Lukas Nmecha,3,Deutschland,22,180,young
-Weghorst,Wout Weghorst,3,Niederlande,28,140,old
-Wind,Jonas Wind,3,Daenemark,22,140,young
-Bialek,Bartosz Bialek,3,Polen,19,40,teen
-Ginczek,Daniel Ginczek,3,Deutschland,30,9,old
-BOC,VfL Bochum,2,,,,
-Riemann,Manuel Riemann,3,Deutschland,32,12,rusty
-Esser,Michael Esser,3,Deutschland,33,4,rusty
-Ernst,Tjark Ernst,3,Deutschland,18,2,teen
-Grave,Paul Grave,3,Deutschland,20,1,young
-Bella-Kotchap,Armel Bella-Kotchap,3,Deutschland,19,100,teen
-Leitsch,Maxim Leitsch,3,Deutschland,23,50,young
-Masovic,Erhan Masovic,3,Serbien,22,25,young
-Lampropoulos,Vasilios Lampropoulos,3,Griechenland,31,5,old
-Decarli,Saulo Decarli,3,Schweiz,29,3,old
-Soares,Danilo Soares,3,Brasilien,29,22,old
-Stafylidis,Konstantinos Stafylidis,3,Griechenland,27,18,mid
-Roemling,Moritz Roemling,3,Deutschland,20,2,young
-Bockhorn,Herbert Bockhorn,3,Deutschland,26,8,mid
-Gamboa,Cristian Gamboa,3,Costa Rica,31,7,old
-Losilla,Anthony Losilla,3,Frankreich,35,5,rusty
-Rexhbecaj,Elvis Rexhbecaj,3,Deutschland,23,40,young
-Loewen,Eduard Loewen,3,Deutschland,24,20,mid
-Osterhage,Patrick Osterhage,3,Deutschland,21,9,young
-Tesche,Robert Tesche,3,Deutschland,34,4,rusty
-Chibsah,Raman Chibsah,3,Ghana,28,3,old
-Pantovic,Milos Pantovic,3,Serbien,24,22,mid
-Weilandt,Tom Weilandt,3,Deutschland,29,3,old
-Holtmann,Gerrit Holtmann,3,Philippinen,26,45,mid
-Antwi-Adjei,Christopher Antwi-Adjei,3,Ghana,27,10,mid
-Blum,Danny Blum,3,Deutschland,30,6,old
-Asano,Takuma Asano,3,Japan,26,30,mid
-Bonga,Tarsis Bonga,3,Deutschland,24,3,mid
-Polter,Sebastian Polter,3,Deutschland,30,22,old
-Locadia,Juergen Locadia,3,Niederlande,27,20,mid
-Zoller,Simon Zoller,3,Deutschland,30,11,old
-Ganvoula,Silvere Ganvoula,3,Kongo,25,6,mid
-Novothny,Soma Novothny,3,Ungarn,27,4,mid
-Hartwig,Luis Hartwig,3,Deutschland,18,2,teen
-FCA,FC Augsburg,2,,,,
-Gikiewicz,Rafal Gikiewicz,3,Polen,33,12,rusty
-Koubek,Tomas Koubek,3,Tschechien,28,10,old
-Klein,Daniel Klein,3,Deutschland,20,2,young
-Oxford,Reece Oxford,3,England,22,120,young
-Uduokhai,Felix Uduokhai,3,Deutschland,23,100,young
-Gouweleeuw,Jeffrey Gouweleeuw,3,Niederlande,29,35,old
-Winther,Frederik Winther,3,Daenemark,20,10,young
-Iago,Iago,3,Brasilien,24,55,mid
-Pedersen,Mads Pedersen,3,Daenemark,24,20,mid
-Guenther,Lasse Guenther,3,Deutschland,18,10,teen
-Gumny,Robert Gumny,3,Polen,23,25,young
-Framberger,Raphael Framberger,3,Deutschland,25,15,mid
-Dorsch,Niklas Dorsch,3,Deutschland,23,100,young
-Gruezo,Carlos Gruezo,3,Ecuador,26,32,mid
-Strobl,Tobias Strobl,3,Deutschland,31,9,old
-Salifou,Dikeni Salifou,3,Togo,18,,teen
-Maier,Arne Maier,3,Deutschland,22,55,young
-Moravek,Jan Moravek,3,Tschechien,31,5,old
-Civeja,Tim Civeja,3,Deutschland,19,2,teen
-SchmidtD,Dominic Schmidt,3,Deutschland,20,1,young
-Jensen,Fredrik Jensen,3,Finnland,23,15,young
-Vargas,Ruben Vargas,3,Schweiz,22,80,young
-Hahn,Andre Hahn,3,Deutschland,30,20,old
-Sarenren Bazee,Noah Joel Sarenren Bazee,3,Deutschland,24,10,mid
-Caligiuri,Daniel Caligiuri,3,Italien,33,8,rusty
-Pepi,Ricardo Pepi,3,USA,18,90,teen
-Gregoritsch,Michael Gregoritsch,3,Oesterreich,27,45,mid
-Zeqiri,Andi Zeqiri,3,Schweiz,22,23,young
-Niederlechner,Florian Niederlechner,3,Deutschland,30,22,old
-Cordova,Sergio Cordova,3,Venezuela,23,10,young
-Finnbogason,Alfred Finnbogason,3,Island,32,7,rusty
-Malone,Maurice Malone,3,Deutschland,20,5,young
-VFB,VfB Stuttgart,2,,,,
-MuellerF,Florian Mueller,3,Deutschland,23,55,young
-Bredlow,Fabian Bredlow,3,Deutschland,26,5,mid
-Schock,Florian Schock,3,Deutschland,20,2,young
-Mavropanos,Konstantinos Mavropanos,3,Griechenland,23,150,young
-Anton,Waldemar Anton,3,Deutschland,24,60,mid
-Ito,Hiroki Ito,3,Japan,22,45,young
-Maglica,Matej Maglica,3,Kroatien,22,9,young
-Bazzoli,Luca Bazzoli,3,Deutschland,20,2,young
-Sosa,Borna Sosa,3,Kroatien,23,230,young
-Stenzel,Pascal Stenzel,3,Deutschland,25,15,mid
-EndoW,Wataru Endo,3,Japan,28,80,old
-Karazor,Atakan Karazor,3,Deutschland,24,45,mid
-Ahamada,Naouirou Ahamada,3,Frankreich,19,15,teen
-Mola,Clinton Mola,3,England,20,10,young
-Weil,Richard Weil,3,Deutschland,33,1,rusty
-Mangala,Orel Mangala,3,Belgien,23,150,young
-Millot,Enzo Millot,3,Frankreich,18,20,teen
-Nartey,Nikolas Nartey,3,Daenemark,21,18,young
-Silas,Silas Katompa Mvumpa,3,DR Kongo,22,150,young
-Thommy,Erik Thommy,3,Deutschland,26,18,mid
-Foerster,Philipp Foerster,3,Deutschland,26,25,mid
-Klimowicz,Mateo Klimowicz,3,Deutschland,20,20,young
-Tibidi,Alexis Tibidi,3,Frankreich,17,12,teen
-Klement,Philipp Klement,3,Deutschland,28,10,old
-Beyaz,Oemer Beyaz,3,Tuerkei,17,12,teen
-Egloff,Lilian Egloff,3,Deutschland,18,8,teen
-Didavi,Daniel Didavi,3,Deutschland,31,5,old
-MichelF,Falko Michel,3,Deutschland,20,3,young
-CoulibalyT,Tanguy Coulibaly,3,Frankreich,20,25,young
-Massimo,Roberto Massimo,3,Deutschland,20,20,young
-Churlinov,Darko Churlinov,3,Nordmazedonien,20,13,young
-Fuehrich,Chris Fuehrich,3,Deutschland,23,40,young
-Kalajdzic,Sasa Kalajdzic,3,Oesterreich,23,250,young
-Tomas,Tiago Tomas,3,Portugal,20,70,young
-Faghir,Wahid Faghir,3,Daenemark,17,30,teen
-Sankoh,Mohamed Sankoh,3,Niederlande,17,10,teen
-Al Ghaddioui,Hamadi Al Ghaddioui,3,Marokko,30,7,old
-BSC,Hertha BSC,2,,,,
-Schwolow,Alexander Schwolow,3,Deutschland,29,30,old
-Christensen,Oliver Christensen,3,Daenemark,22,15,young
-Lotka,Marcel Lotka,3,Polen,20,13,young
-Koerber,Nils-Jonathan Koerber,3,Deutschland,24,3,mid
-Jarstein,Rune Jarstein,3,Norwegen,36,3,rusty
-Stark,Niklas Stark,3,Deutschland,26,65,mid
-Torunarigha,Jordan Torunarigha,3,Deutschland,23,50,young
-Dardai,Marton Dardai,3,Deutschland,19,50,teen
-Kempf,Marc Oliver Kempf,3,Deutschland,26,45,mid
-Gechter,Linus Gechter,3,Deutschland,17,45,teen
-Boyata,Dedryck Boyata,3,Belgien,30,35,old
-Atemona,Christalino Atemona,3,Deutschland,19,2,teen
-Roecker,Cimo Roecker,3,Deutschland,27,1,mid
-Morgenstern,Marlon Morgenstern,3,Deutschland,20,1,young
-Mittelstaedt,Maximilian Mittelstaedt,3,Deutschland,24,45,mid
-Bjoerkan,Fredrik Bjoerkan,3,Norwegen,22,25,young
-Plattenhardt,Marvin Plattenhardt,3,Deutschland,29,20,old
-Zeefuik,Deyovaisio Zeefuik,3,Niederlande,23,30,young
-Kluenter,Lukas Kluenter,3,Deutschland,25,12,mid
-Pekarik,Peter Pekarik,3,Slowakei,34,7,rusty
-Eitschberger,Julian Eitschberger,3,Deutschland,17,,teen
-Tousart,Lucas Tousart,3,Frankreich,24,90,mid
-Ascacibar,Santiago Ascacibar,3,Argentinien,24,65,mid
-Dirkner,Jonas Dirkner,3,Deutschland,18,2,teen
-Serdar,Suat Serdar,3,Deutschland,24,80,mid
-Ekkelenkamp,Jurgen Ekkelenkamp,3,Niederlande,21,35,young
-Darida,Vladimir Darida,3,Tschechien,30,22,old
-Michelbrink,Jonas Michelbrink,3,Deutschland,20,5,young
-Albrecht,Julian Albrecht,3,Deutschland,19,2,teen
-Boateng,Kevin-Prince Boateng,3,Ghana,34,9,rusty
-Jastrzembski,Dennis Jastrzembski,3,Deutschland,21,8,young
-Dilrosun,Javairo Dilrosun,3,Niederlande,23,60,young
-Maolida,Myziane Maolida,3,Frankreich,22,30,young
-Kade,Anton Kade,3,Deutschland,17,8,teen
-Lukebakio,Dodi Lukebakio,3,Belgien,23,75,young
-Richter,Marco Richter,3,Deutschland,23,60,young
-Nsona,Kelian Nsona,3,Frankreich,19,12,teen
-LeeD,Dong-jun Lee,3,Suedkorea,24,12,mid
-Winkler,Marten Winkler,3,Deutschland,18,2,teen
-Cunha,Matheus Cunha,3,Brasilien,22,300,young
-Piatek,Krzysztof Piatek,3,Polen,26,120,mid
-Jovetic,Stevan Jovetic,3,Montenegro,31,25,old
-Belfodil,Ishak Belfodil,3,Algerien,29,22,old
-Selke,Davie Selke,3,Deutschland,26,18,mid
-Wollschlaeger,Luca Wollschlaeger,3,Deutschland,18,,teen
-ABF,Arminia Bielefeld,2,,,,
-Ortega,Stefan Ortega,3,Deutschland,28,60,old
-Kapino,Stefanos Kapino,3,Griechenland,27,7,mid
-Linner,Oscar Linner,3,Schweden,24,3,mid
-SchulzA,Arne Schulz,3,Deutschland,18,1,teen
-Pieper,Amos Pieper,3,Deutschland,23,50,young
-Nilsson,Joakim Nilsson,3,Schweden,27,35,mid
-Ramos,Guilherme Ramos,3,Portugal,23,3,young
-Andrade,Andres Andrade,3,Panama,22,3,young
-Hoorn,Mike van der Hoorn,3,Niederlande,28,16,old
-Medina,Nathan de Medina,3,Belgien,23,8,young
-BauerK,Kenson Bauer,3,Deutschland,17,,teen
-Bello,George Bello,3,USA,19,30,teen
-Czyborra,Lennart Czyborra,3,Deutschland,22,23,young
-Laursen,Jacob Laursen,3,Daenemark,26,17,mid
-Brunner,Cedric Brunner,3,Schweiz,27,32,mid
-Prietl,Manuel Prietl,3,Oesterreich,29,18,old
-Kunze,Fabian Kunze,3,Deutschland,23,10,young
-Frommann,Julian Frommann,3,Deutschland,18,2,teen
-Schoepf,Alessandro Schoepf,3,Oesterreich,27,25,mid
-Hartel,Marcel Hartl,3,Deutschland,25,18,mid
-Vasiliadis,Sebastian Vasiliadis,3,Griechenland,23,18,young
-Ince,Burak Ince,3,Tuerkei,17,15,teen
-Castro,Gonzalo Castro,3,Deutschland,34,5,rusty
-Okugawa,Masaya Okugawa,3,Japan,25,50,mid
-Cherny,Vladislav Cherny,3,Deutschland,18,1,teen
-Dogan,Cem-Ali Dogan,3,Tuerkei,16,,teen
-HackR,Robin Hack,3,Deutschland,22,20,young
-Wimmer,Patrick Wimmer,3,Oesterreich,20,80,young
-Lasme,Bryan Lasme,3,Frankreich,22,10,young
-Gebauer,Christian Gebauer,3,Oesterreich,27,5,mid
-Krueger,Florian Krueger,3,Deutschland,22,18,young
-Serra,Janni Serra,3,Deutschland,23,18,young
-Klos,Fabian Klos,3,Deutschland,33,4,rusty
-SGF,Greuther Fuerth,2,,,,
-Linde,Andreas Linde,3,Schweden,27,9,mid
-Burchert,Sascha Burchert,3,Deutschland,31,4,old
-Funk,Marius Funk,3,Deutschland,25,3,mid
-Schaffran,Leon Schaffran,3,Deutschland,22,1,young
-SchulzL,Lasse Schulz,3,Finnland,18,1,teen
-BauerM,Maximilian Bauer,3,Deutschland,21,16,young
-Hoogma,Justin Hoogma,3,Niederlande,23,10,young
-Viergever,Nick Viergever,3,Niederlande,31,8,old
-Griesbeck,Sebastian Griesbeck,3,Deutschland,30,7,old
-Jung,Gideon Jung,3,Deutschland,26,7,mid
-Barry,Abdourahmane Barry,3,Frankreich,21,3,young
-Fobassam,Oliver Fobassam,3,Deutschland,18,2,teen
-Itter,Luca Itter,3,Deutschland,22,15,young
-Willems,Jetro Willems,3,Niederlande,27,10,mid
-Meyerhoefer,Marco Meyerhoefer,3,Deutschland,25,20,mid
-Asta,Simon Asta,3,Deutschland,20,9,young
-Christiansen,Max Christansen,3,Deutschland,24,15,mid
-Fein,Adrian Fein,3,Deutschland,22,7,young
-Sarpei,Hans Nunoo Sarpei,3,Ghana,22,5,young
-Seguin,Paul Seguin,3,Deutschland,26,22,mid
-TillmanT,Timothy Tillman,3,Deutschland,22,18,young
-Raschl,Tobias Raschl,3,Deutschland,21,10,young
-Green,Julian Green,3,USA,26,10,mid
-Seufert,Nils Seufert,3,Deutschland,24,6,mid
-Dudziak,Jeremy Dudziak,3,Deutschland,25,16,mid
-Torlak,Mert Torlak,3,Tuerkei,18,1,teen
-Leweling,Jamie Leweling,3,Deutschland,20,45,young
-Hrgota,Branimir Hrgota,3,Schweden,28,20,old
-Ngankam,Jessic Ngankam,3,Deutschland,20,20,young
-Itten,Cedric Itten,3,Schweiz,24,20,mid
-Pululu,Afimico Pululu,3,Angola,22,10,young
-Nielsen,Havard Nielsen,3,Norwegen,27,10,mid
-Abiama,Dickson Abiama,3,Nigeria,22,8,young
-Kehr,Robin Kehr,3,Deutschland,21,2,young
-none,privat beraten,1,,,,
-100and10,100and10 Sportsmanagement,1,Deutschland,,,
-1K,1K Sportsmanagement,1,Deutschland,,,
-11WINS,11WINS GmbH,1,Deutschland,,,
-act,act SPORT GROUP,1,Kanada,,,
-acta7,acta7,1,Deutschland,,,
-AIS,AIS Sports Service,1,Frankreich,,,
-AKA,AKA Global GmbH,1,Deutschland,,,
-AMS,AMS Consulting,1,Deutschland,,,
-Apertura,Apertura Sports GmbH,1,Deutschland,,,
-ASBW,ASBW Sport Marketing GmbH,1,Deutschland,,,
-ATG,ATG Sports Management Inc,1,Kanada,,,
-ATHLEADZ,ATHLEADZ,1,Deutschland,,,
-Atta,Emefie Aneka Atta,1,Norwegen,,,
-B360,B360 Sports Agency,1,Deutschland,,,
-BALLWERK,BALLWERK Sports GmbH,1,Deutschland,,,
-BernardC,Bernard Collignon,1,Frankreich,,,
-Bertolucci,Bertolucci Sports,1,Brasilien,,,
-Bigpoint,Bigpoint,1,Deutschland,,,
-BMGS,BMGSport,1,Polen,,,
-BMS,BMS Sportconsulting GmbH,1,Deutschland,,,
-BOKS,Bjoern O Krohn Sports,1,Deutschland,,,
-Boutique,Boutique Transfers,1,Daenemark,,,
-Breeze,Breeze Sports GmbH,1,Deutschland,,,
-Briem,Briem Soccer Connection,1,Deutschland,,,
-BSGroup,BS Group - BS Law,1,Frankreich,,,
-BY,BY Sport Consulting,1,Schweiz,,,
-BYANDFOR,BY and FOR Sport Management,1,Spanien,,,
-CAA,CAA Base Ltd,1,England,,,
-CALCYO,CALCYO,1,Deutschland,,,
-Carmenta,Carmenta,1,Frankreich,,,
-CastagninoSAS,Eric Castagnino SAS,1,Frankreich,,,
-Cherry,Cherry Sports,1,Belgien,,,
-CHS,CHOVANECSPORT,1,Tschechien,,,
-Classico,Classico,1,Frankreich,,,
-CN,CN Sports,1,Deutschland,,,
-COMET,COMET SportsEvents,1,Deutschland,,,
-CSA,Concept Sport Agency,1,Frankreich,,,
-D20,D20 Sports,1,Portugal,,,
-DC,DC INTERNATIONAL SPORTS MANAGEMENT GMBH,1,Deutschland,,,
-Division,Futbol Division,1,Spanien,,,
-Doorn,Armand Doorn,1,Deutschland,,,
-DR RMB Sports,DR Dahm Richter Spielerberatung GmbH RMB Sports,1,Deutschland,,,
-DWSports,DW Sports Management,1,Frankreich,,,
-Eleven,Eleven Talent Group,1,Spanien,,,
-Elite,Elite Project Group Ltd,1,England,,,
-EM,EM Sports Consulting,1,Ungarn,,,
-EMG,EMG Mundial,1,Deutschland,,,
-EWS,Emal Wardak Sales,1,Deutschland,,,
-Engels,Stephan Engels,1,Deutschland,,,
-Epic,Epic Sports,1,Portugal,,,
-ESHA,ESHA SPORTMARKETING GMBH,1,Schweiz,,,
-Euro,Eurosportsmanagement,1,Liechtenstein,,,
-eXcellence,Sports eXcellence Group,1,Deutschland,,,
-Excensy,Excensy,1,Schweiz,,,
-Extra,Extra Ball SA,1,Paraguay,,,
-Fabryka,Fabryka Futbol,1,Polen,,,
-Facundo,Facundo Fraga,1,Spanien,,,
-fairsport,fairsport GmbH,1,Deutschland,,,
-feelsoccer,Feel Soccer GmbH,1,Deutschland,,,
-Felicevich,Fernando Felicevich,1,Großbritannien,,,
-FF,Family and Football,1,Deutschland,,,
-FG,FG Sports GmbH,1,Deutschland,,,
-Fischer,Rechtsanwalt Oliver Fischer,1,Deutschland,,,
-Footballgoal,Footballgoal,1,Deutschland,,,
-Froehlich,Froehlich Sportmanagement GmbH,1,Deutschland,,,
-FSB,FSB Spielerberatung GmbH,1,Deutschland,,,
-FSC,Future Sports Concept,1,Deutschland,,,
-FUTURE11,FUTURE11 GmbH,1,Deutschland,,,
-Gelu,Gelu Rodriguez,1,Spanien,,,
-Gestifute,Gestifute,1,Portugal,,,
-GKSA,GoldKick SA,1,Schweiz,,,
-GoalSky,GoalSky GmbH,1,Deutschland,,,
-GOOLD,GOOLD Soccer Agency,1,Deutschland,,,
-GPM,Golden Patch Management,1,Deutschland,,,
-GSM,Global Soccer Management,1,Schweden,,,
-GW,Guido Walter,1,Deutschland,,,
-Gutfleisch,Dr Marco Gutfleisch,1,Deutschland,,,
-HAGMAYR,HAGMAYR Sportmanagement,1,Oesterreich,,,
-Haspel,Haspel Sportconsulting,1,Deutschland,,,
-HCM,HCM Sports Management,1,Singapur,,,
-Hebel,Dirk Hebel,1,Deutschland,,,
-Headtrick,Headtrick GmbH,1,Deutschland,,,
-Herzog,Karl M Herzog Sportmanagement,1,Deutschland,,,
-Hexagon,Hexagon,1,Frankreich,,,
-HMH,HMH Sportsmanagement,1,Deutschland,,,
-HSP,HSP SportsManagement,1,Deutschland,,,
-HuGu,HuGu,1,Deutschland,,,
-ICMStellar,ICM Stellar Sports,1,England,,,
-IFM,International Football Management GmbH,1,Schweiz,,,
-INTEAM,INTEAMSPORTS,1,Deutschland,,,
-IntSM,Int Sport Management,1,Belgien,,,
-INVSPORT,INVSPORT Sergio Barila,1,Spanien,,,
-ISM,ISM Int Soccer Management GmbH,1,Deutschland,,,
-JEB,JEB Entertainment Co,1,Japan,,,
-JFSM,John Froehlich Sports Management,1,Deutschland,,,
-JV,JV Sports SL,1,Spanien,,,
-KAF,Karlheinz Foerster,1,Deutschland,,,
-Keyscout,Keyscout Football,1,VAE,,,
-KF,Konstantinos Farras,1,Deutschland,,,
-KFM,KFM,1,Polen,,,
-KL,KL Sportbase,1,Deutschland,,,
-Koegl,Koegl und Partner GmbH,1,Deutschland,,,
-KSM,Kay Sports Management,1,Ghana,,,
-KuR,Kick and Run Sports,1,Deutschland,,,
-LEADERBROCK,LEADERBROCK,1,Spanien,,,
-Leite,Carlos Leite,1,Brasilien,,,
-LIAN,LIAN Sports Group,1,Irland,,,
-LITCHI,LITCHI AG,1,Schweiz,,,
-LK,LK Management,1,Deutschland,,,
-Lorimanagement,Lorimanagement,1,Deutschland,,,
-LowensSport,Lowens Sport,1,Deutschland,,,
-LS,LS Football,1,Italien,,,
-Lucky13,Lucky 13 GmbH,1,Deutschland,,,
-Match2gether,Match2gether,1,Deutschland,,,
-MB,MB Sports,1,Deutschland,,,
-MichaelB,International Soccer Consulting Dr Michael Becker,1,Deutschland,,,
-MK,MK Sport Consulting GmbH,1,Deutschland,,,
-MR,MR Sport Managemant GmbH,1,Deutschland,,,
-MS,M Soccermanagement,1,Deutschland,,,
-MSG,Marketing Sport Group Agency,1,Tschechien,,,
-MTG,More than Goals,1,Niederlande,,,
-MTS,More than Sport GmbH,1,Oesterreich,,,
-MunichF,Munich Football Management,1,Deutschland,,,
-Neblung,Neblung Sportsnetwork,1,Deutschland,,,
-Neubauer13,Neubauer 13 GmbH,1,Deutschland,,,
-NG360,NG360,1,Deutschland,,,
-NGM,NGM Sports,1,Deutschland,,,
-Niagara,Niagara Sports Company,1,Bosnien-Herzegowina,,,
-NOACK,NOACK Sports GmbH,1,Deutschland,,,
-Nomi,Nomi Sports,1,Schweiz,,,
-NS,Nordic Sky,1,Schweden,,,
-NSG,Nordic Sports Group APS,1,Schweden,,,
-OneII,One II Agency,1,Niederlande,,,
-OnlyPro,Only Pro Sport,1,Frankreich,,,
-PEP,PEP Consulting,1,Deutschland,,,
-PESM,PESM,1,Deutschland,,,
-PF,Players Factory,1,Deutschland,,,
-Pimenta,Rafaela Pimenta,1,Brasilien,,,
-PIS,People in Sport,1,Daenemark,,,
-Proeleven,Proeleven SA,1,Portugal,,,
-Profile,Sport Profile,1,Frankreich,,,
-Prolific,Prolific Sport Group,1,England,,,
-Promoesport,Promoesport,1,Andorra,,,
-PROProfil,PRO Profil GmbH,1,Deutschland,,,
-PSM,Power Sports Management,1,Griechenland,,,
-PURE,PURE Sportsmanagement,1,Niederlande,,,
-Quilon,Manuel Garcia Quilon,1,Spanien,,,
-RELC,RELC Sports,1,Deutschland,,,
-RobertoT,Roberto Tukada,1,Japan,,,
-ROGON,ROGON,1,Deutschland,,,
-ROOF,ROOF,1,Deutschland,,,
-Rummenigge,Rummenigge Sport Marketing,1,Deutschland,,,
-SAM,Sport Avenir Management International,1,Frankreich,,,
-SBE,SBE Managemant AG,1,Schweiz,,,
-SBS,Sport Business SOCCER GbR,1,Deutschland,,,
-SC,Sport Cover,1,Frankreich,,,
-SchneiderR,Robert Schneider,1,Deutschland,,,
-SCS,SC Sports Management International SA,1,Italien,,,
-SD,SD Sportmanagement,1,Deutschland,,,
-SEG,SEG,1,Niederlande,,,
-SETH,SETH Sports Agency,1,USA,,,
-SISCM,Signature ISCM AG,1,Schweiz,,,
-Sisic,Marjan Sisic,1,Kroatien,,,
-Skylar,Skylar,1,Deutschland,,,
-SMG,SMG GmbH,1,Deutschland,,,
-Soccer,Soccer and more,1,Deutschland,,,
-SoccerM,Soccer Mondial AG,1,Schweiz,,,
-Soccertalk,Soccertalk GmbH,1,Deutschland,,,
-Solbakken,Solbakken Player Solitude,1,Norwegen,,,
-Spanier,Spanier Sportsmanagement,1,Deutschland,,,
-SPOCS,SPOCS GLOBAL SPORTS GMBH,1,Deutschland,,,
-SPORTINVEST,SPORT INVEST INTERNATIONAL,1,Tschechien,,,
-Sports360,Sports360 GmbH,1,Deutschland,,,
-SPS,Solbakken Player Solution,1,Nowegen,,,
-StarsFriends,Stars and Friends International Holding GmbH,1,Slowakei,,,
-Stirr,Stirr Associates,1,Belgien,,,
-SV,Soccer Vision,1,Niederlande,,,
-SWSports,SWSports,1,Deutschland,,,
-SXI,Starting XI Player Management,1,Kanada,,,
-T21,T21plus,1,Deutschland,,,
-Talcon,Talcon Management GmbH,1,Deutschland,,,
-TB,TBSportmarketing GmbH,1,Deutschland,,,
-TDL,TDL Sports Management,1,Schweiz,,,
-Teamgeist,Teamgeist Sportmanagement GmbH,1,Deutschland,,,
-Teamplayer,Teamplayer Sportmanagement,1,Deutschland,,,
-Tenet,Tenet Football,1,Deutschland,,,
-TF,Think forward Sportmanagement GmbH,1,Deutschland,,,
-TFM,TFM Agency,1,Brasilien,,,
-TKG,The Kulture Group,1,Niederlande,,,
-TPWE,TPWE GmbH,1,Deutschland,,,
-Trois,Trois Akademie,1,Deutschland,,,
-TrueSports,TrueSports GmbH,1,Deutschland,,,
-TuB,Talents and Pros by Solutions,1,Deutschland,,,
-UDN,UDN Sports,1,Japan,,,
-Unique,Unique Sports Group,1,England,,,
-Universal,Universal Sportsmanagement GmbH,1,Deutschland,,,
-UNS,Universal Sports Japan Ltd ,1,Japan,,,
-USFA,USFA Management,1,Frankreich,,,
-vanBuyten,Daniel van Buyten,1,Belgien,,,
-VIDA,VIDA 11,1,Deutschland,,,
-VV,VV Consulting ,1,Monaco,,,
-V4S,Vision4Soccer,1,Niederlande,,,
-Wasserman,Wasserman,1,USA,,,
-WIM,World in Motion,1,England,,,
-WINStar,WINStar Management,1,Deutschland,,,
-Wolfs,Wolfs,1,Deutschland,,,
-WoS,Word of Sports,1,Griechenland,,,
-WSA,World Soccer Agency,1,Italien,,,
-WUK,WUK Fairplay,1,Deutschland,,,
-YAATS,YAATS Sports,1,Frankreich,,,
-YMU,YMU Group,1,England,,,
-YOUFIRST,YOU FIRST ,1,Spanien,,,
-YOUM,YOUnited Management GmbH,1,Deutschland,,,
-Yu,Yu Matoji,1,Japan,,,
-Zahavi,Pini Zahavi,1,Israel,,,
+id,name,type,country,age,value,category,worth
+FCB,FC Bayern Muenchen,2,,,,,
+Neuer,Manuel Neuer,3,Deutschland,36,150,rusty,cheap
+Ulreich,Sven Ulreich,3,Deutschland,33,9,rusty,nothing
+Fruechtl,Christian Fruechtl,3,Deutschland,22,6,young,nothing
+Hoffmann,Ron-Thorben Hoffmann,3,Deutschland,22,5,young,nothing
+Hernandez,Lucas Hernandez,3,Frankreich,26,500,mid,high
+Upamecano,Dayot Upamecano,3,Frankreich,23,400,young,average
+Suele,Niklas Suele,3,Deutschland,26,350,mid,average
+Nianzou,Tanguy Nianzou,3,Frankreich,20,90,young,cheap
+RichardsC,Chris Richards,3,USA,22,75,young,cheap
+Lawrence,Jamie Lawrence,3,Deutschland,19,10,teen,nothing
+Feldhahn,Nicolas Feldhahn,3,Deutschland,35,1,rusty,nothing
+Davies,Alphonso Davies,3,Kanada,21,700,young,expensive
+RichardsO,Omar Richards,3,England,24,70,mid,cheap
+Pavard,Benjamin Pavard,3,Frankreich,26,300,mid,average
+Stanisic,Josip Stanisic,3,Kroatien,22,40,young,low
+Sarr,Bouna Sarr,3,Senegal,30,25,old,low
+Kimmich,Joshua Kimmich,3,Deutschland,27,800,mid,expensive
+Roca,Marc Roca,3,Spanien,25,70,mid,cheap
+Booth,Taylor Booth,3,USA,21,10,young,nothing
+Goretzka,Leon Goretzka,3,Deutschland,27,650,mid,expensive
+Sabitzer,Marcel Sabitzer,3,Oesterreich,28,150,old,cheap
+Tolisso,Corentin Tolisso,3,Frankreich,27,150,mid,cheap
+Cuisance,Michael Cuisance,3,Frankreich,22,40,young,low
+Kern,Timo Kern,3,Deutschland,32,2,rusty,nothing
+Musiala,Jamal Musiala,3,Deutschland,19,650,teen,expensive
+Wanner,Paul Wanner,3,Deutschland,16,20,teen,low
+TillmanM,Malik Tillman,3,USA,20,15,young,low
+Sane,Leroy Sane,3,Deutschland,26,600,mid,high
+Motika,Nemanja Motika,3,Serbien,19,12,teen,low
+Ibrahimovic,Arijon Ibrahimovic,3,Deutschland,16,,teen,nothing
+Gnabry,Serge Gnabry,3,Deutschland,26,650,mid,expensive
+Coman,Kingsley Coman,3,Frankreich,26,600,mid,high
+MuellerT,Thomas Mueller,3,Deutschland,32,220,rusty,average
+Vidovic,Gabriel Vidovic,3,Kroatien,18,30,teen,low
+Lewandowski,Robert Lewandowski,3,Polen,33,450,rusty,high
+Choupo-Moting,Eric Maxim Choupo-Moting,3,Kamerun,33,30,rusty,low
+Copado,Lucas Copado,3,Deutschland,18,10,teen,nothing
+BVB,Borussia Dortmund,2,,,,,
+Kobel,Gregor Kobel,3,Schweiz,24,220,mid,average
+Unbehaun,Luca Unbehaun,3,Deutschland,21,15,young,low
+Buerki,Roman Buerki,3,Schweiz,31,15,old,low
+Hitz,Marwin Hitz,3,Schweiz,34,10,rusty,nothing
+Drljaca,Stefan Drljaca,3,Deutschland,23,2,young,nothing
+Ostrzinski,Silas Ostrzinski,3,Deutschland,18,,teen,nothing
+Akanji,Manuel Akanji,3,Schweiz,26,300,mid,average
+Zagadou,Dan-Axel Zagadou,3,Frankreich,23,90,young,cheap
+Hummels,Mats Hummels,3,Deutschland,33,65,rusty,cheap
+Pongracic,Marin Pongracic,3,Kroatien,24,60,mid,cheap
+CoulibalyS,Soumaila Coulibaly,3,Frankreich,18,8,teen,nothing
+Maloney,Lennard Maloney,3,USA,22,4,young,nothing
+Papadopoulos,Antonios Papadopoulos,3,Deutschland,22,4,young,nothing
+Guerreiro,Raphael Guerreiro,3,Portugal,28,250,old,average
+SchulzN,Nico Schulz,3,Deutschland,29,40,old,low
+Rothe,Tom Rothe,3,Deutschland,17,12,teen,low
+Schmelzer,Marcel Schmelzer,3,Deutschland,34,5,rusty,nothing
+Meunier,Thomas Meunier,3,Belgien,30,65,old,cheap
+Morey,Mateu Morey Bauza,3,Spanien,22,40,young,low
+Passlack,Felix Passlack,3,Deutschland,24,15,mid,low
+Semic,Lion Semic,3,Deutschland,18,5,teen,nothing
+Can,Emre Can,3,Deutschland,28,160,old,cheap
+Delaney,Thomas Delaney,3,Daenemark,30,70,old,cheap
+Witsel,Axel Witsel,3,Belgien,33,40,rusty,low
+Kamara,Abdoulaye Kamara,3,Guinea,17,10,teen,nothing
+Bellingham,Jude Bellingham,3,England,18,800,teen,expensive
+Dahoud,Mahmoud Dahoud,3,Deutschland,26,180,mid,cheap
+Pasalic,Marco Pasalic,3,Kroatien,21,3,young,nothing
+Reyna,Giovanni Reyna,3,USA,19,350,teen,average
+Brandt,Julian Brandt,3,Deutschland,26,250,mid,average
+Reus,Marco Reus,3,Deutschland,33,110,rusty,cheap
+Reinier,Reinier,3,Brasilien,20,80,young,cheap
+Pherai,Immanuel Pherai,3,Niederlande,21,7,young,nothing
+Guerpuez,Goektan Guerpuez,3,Deutschland,19,3,teen,nothing
+Hazard,Thorgan Hazard,3,Belgien,29,150,old,cheap
+Knauff,Ansgar Knauff,3,Deutschland,20,100,young,cheap
+WolfM,Marius Wolf,3,Deutschland,27,65,mid,cheap
+Bynoe-Gittens,Jamie Bynoe-Gittens,3,England,17,40,teen,low
+Haaland,Erling Haaland,3,Norwegen,21,1500,young,expensive
+Malen,Donyell Malen,3,Niederlande,23,270,young,average
+Moukoko,Youssoufa Moukoko,3,Deutschland,17,150,teen,cheap
+Tigges,Steffen Tigges,3,Deutschland,23,15,young,low
+Nijnmah,Justin Nijnmah,3,Deutschland,21,4,young,nothing
+LEV,Bayer 04 Leverkusen,2,,,,,
+Hradecky,Lukas Hradecky,3,Finnland,32,50,rusty,low
+Lunev,Andrey Lunev,3,Russland,30,25,old,low
+Grill,Lennart Grill,3,Deutschland,23,10,young,nothing
+Lomb,Niklas Lomb,3,Deutschland,28,3,old,nothing
+Neutgens,Maximilian Neutgens,3,Deutschland,18,,teen,nothing
+Tapsoba,Edmond Tapsoba,3,Burkina Faso,23,350,young,average
+Tah,Jonathan Tah,3,Deutschland,26,250,mid,average
+Kossounou,Odilon Kossounou,3,Elfenbeinkueste,21,200,young,cheap
+Hincapie,Piero Hincapie,3,Ecuador,20,170,young,cheap
+Retsos,Panagiotis Retsos,3,Griechenland,23,28,young,low
+Fofana,Sadik Fofana,3,Togo,19,,teen,nothing
+Bakker,Mitchel Bakker,3,Niederlande,22,140,young,cheap
+Wendell,Wendell,3,Brasilien,28,50,old,low
+Sinkgraven,Daley Sinkgraven,3,Niederlande,26,40,mid,low
+Frimpong,Jeremie Frimpong,3,Niederlande,21,200,young,cheap
+Fosu-Mensah,Timothy Fosu-Mensah,3,Niederlande,24,40,mid,low
+Weiser,Mitchell Weiser,3,Deutschland,28,15,old,low
+Baumgartlinger,Julian Baumgartlinger,3,Oesterreich,34,8,rusty,nothing
+Demirbay,Kerem Demirbay,3,Deutschland,28,150,old,cheap
+Palacios,Exequiel Palacios,3,Argentinien,23,150,young,cheap
+Andrich,Robert Andrich,3,Deutschland,27,130,mid,cheap
+Amiri,Nadiem Amiri,3,Deutschland,25,80,mid,cheap
+Aranguiz,Charles Aranguiz,3,Chile,33,35,rusty,low
+Sertdemir,Zidan Sertdemir,3,Norwegen,17,20,teen,low
+Wirtz,Florian Wirtz,3,Deutschland,19,700,teen,expensive
+Diaby,Moussa Diaby,3,Frankreich,22,600,young,high
+Paulinho,Paulinho,3,Brasilien,21,110,young,cheap
+Adli,Amine Adli,3,Frankreich,22,120,young,cheap
+Bellarabi,Karim Bellarabi,3,Deutschland,32,30,rusty,low
+Schick,Patrik Schick,3,Tschechien,26,500,mid,high
+Azmoun,Sardar Azmoun,3,Iran,27,220,mid,average
+Alario,Lucas Alario,3,Argentinien,29,80,old,cheap
+Pohjanpalo,Joel Pohjanpalo,3,Finnland,27,25,mid,low
+Gedikli,Emrehan Gedikli,3,Deutschland,19,12,teen,low
+Bravo,Iker Bravo,3,Spanien,17,10,teen,nothing
+RBL,RB Leipzig,2,,,,,
+Gulacsi,Peter Gulacsi,3,Ungarn,32,80,rusty,cheap
+Martinez,Josep Martinez,3,Spanien,24,22,mid,low
+Tschauner,Philipp Tschauner,3,Deutschland,36,3,rusty,nothing
+Eutinger,Fabian Eutinger,3,Deutschland,18,1,teen,nothing
+Gvardiol,Josko Gvardiol,3,Kroatien,20,350,young,average
+Simakan,Mohamed Simakan,3,Frankreich,22,220,young,average
+Klostermann,Lukas Klostermann,3,Deutschland,26,180,mid,cheap
+Orban,Willi Orban,3,Ungarn,29,100,old,cheap
+Lelle,David Lelle,3,Deutschland,19,,teen,nothing
+Angelino,Angelino,3,Spanien,25,300,mid,average
+Halstenberg,Marcel Halstenberg,3,Deutschland,30,50,old,low
+Mukiele,Nordi Mukiele,3,Frankreich,24,200,mid,cheap
+Henrichs,Benjamin Henrichs,3,Deutschland,25,140,mid,cheap
+Bonnah,Solomon Bonnah,3,Niederlande,18,8,teen,nothing
+AdamsT,Tyler Adams,3,USA,23,170,young,cheap
+Laimer,Konrad Laimer,3,Oesterreich,25,280,mid,average
+Haidara,Amadou Haidara,3,Mali,24,240,mid,average
+Moriba,Ilaix Moriba,3,Guinea,19,90,teen,cheap
+Kampl,Kevin Kampl,3,Slowenien,31,60,old,cheap
+Raebiger,Sidney Raebiger,3,Deutschland,17,8,teen,nothing
+Klefisch,Ben Klefisch,3,Deutschland,19,2,teen,nothing
+Olmo,Dani Olmo,3,Spanien,24,400,mid,average
+Wosz,Joscha Wosz,3,Deutschland,19,4,teen,nothing
+Szoboszlai,Dominik Szoboszlai,3,Ungarn,21,280,young,average
+Forsberg,Emil Forsberg,3,Schweden,30,110,old,cheap
+Ibrahimi,Mehmet Ibrahimi,3,Deutschland,19,,teen,nothing
+Novoa,Hugo Novoa,3,Spanien,19,30,teen,low
+Hartmann,Fabrice Hartmann,3,Deutschland,21,3,young,nothing
+Nkunku,Christopher Nkunku,3,Frankreich,24,800,mid,expensive
+Silva,Andre Silva,3,Portugal,26,320,mid,average
+Hwang,Hee-chan Hwang,3,Suedkorea,26,160,mid,cheap
+Poulsen,Yussuf Poulsen,3,Daenemark,28,140,old,cheap
+Brobbey,Brian Brobbey,3,Niederlande,20,90,young,cheap
+FCU,1 FC Union Berlin,2,,,,,
+Roennow,Frederik Roennow,3,Daenemark,29,20,old,low
+Luthe,Andreas Luthe,3,Deutschland,35,8,rusty,nothing
+Busk,Jakob Busk,3,Daenemark,28,3,old,nothing
+Petzsch,Niklas Petzsch,3,Deutschland,18,,teen,nothing
+Stein,Yannic Stein,3,Deutschland,17,,teen,nothing
+Jaeckel,Paul Jaeckel,3,Deutschland,23,50,young,low
+Baumgartl,Timo Baumgartl,3,Deutschland,26,50,mid,low
+Knoche,Robin Knoche,3,Deutschland,30,50,old,low
+Heintz,Dominique Heintz,3,Deutschland,28,25,old,low
+van Drongelen,Rick van Drongelen,3,Niederlande,23,15,young,low
+Bruns,Mathis Bruns,3,Deutschland,18,2,teen,nothing
+Puchacz,Tymoteusz Puchacz,3,Polen,23,23,young,low
+Giesselmann,Niko Giesselmann,3,Deutschland,30,23,old,low
+Oczipka,Bastian Oczipka,3,Deutschland,33,6,rusty,nothing
+Ryerson,Julian Ryerson,3,Norwegen,24,40,mid,low
+Trimmel,Christopher Trimmel,3,Oesterreich,35,9,rusty,nothing
+Dehl,Laurenz Dehl,3,Deutschland,20,3,young,nothing
+Khedira,Rani Khedira,3,Deutschland,28,60,old,cheap
+Proemel,Grischa Proemel,3,Deutschland,27,75,mid,cheap
+SchaeferA,Andras Schaefer,3,Ungarn,23,20,young,low
+Oeztunali,Levin Oeztunali,3,Deutschland,26,15,mid,low
+Moehwald,Kevin Moehwald,3,Deutschland,28,15,old,low
+SchneiderF,Fabio Schneider,3,Deutschland,19,2,teen,nothing
+Somnitz,Maximilian Somnitz,3,Deutschland,19,2,teen,nothing
+Wszolek,Pawel Wszolek,3,Polen,30,12,old,low
+Haraguchi,Genki Haraguchi,3,Japan,31,25,old,low
+EndoK,Keita Endo,3,Japan,24,9,mid,nothing
+Becker,Sheraldo Becker,3,Suriname,27,70,mid,cheap
+Awoniyi,Taiwo Awoniyi,3,Nigeria,24,200,mid,cheap
+Voglsammer,Andreas Voglsammer,3,Deutschland,30,12,old,low
+MichelS,Sven Michel,3,Deutschland,31,12,old,low
+Teuchert,Cedric Teuchert,3,Deutschland,25,9,mid,nothing
+Behrens,Kevin Behrens,3,Deutschland,31,9,old,nothing
+Ujah,Anthony Ujah,3,Nigeria,31,5,old,nothing
+Abdullahi,Suleiman Abdullahi,3,Nigeria,25,4,mid,nothing
+SCF,SC Freiburg,2,,,,,
+Flekken,Mark Flekken,3,Niederlande,29,70,old,cheap
+Atubolu,Noah Atubolu,3,Deutschland,20,15,young,low
+Uphoff,Benjamin Uphoff,3,Deutschland,28,5,old,nothing
+SchlotterbeckN,Nico Schlotterbeck,3,Deutschland,22,330,young,average
+Lienhart,Philipp Lienhart,3,Oesterreich,25,180,mid,cheap
+SchlotterbeckK,Keven Schlotterbeck,3,Deutschland,25,30,mid,low
+Gulde,Manuel Gulde,3,Deutschland,31,17,old,low
+Sildillia,Kiliann Sildillia,3,Frankreich,20,15,young,low
+SchmidtK,Kenneth Schmidt,3,Deutschland,20,5,young,nothing
+Guenter,Christian Guenter,3,Deutschland,29,120,old,cheap
+Ezekwem,Kimberly Ezekwem,3,Deutschland,21,3,young,nothing
+Siquet,Hugo Siquet,3,Belgien,19,55,teen,cheap
+Kuebler,Lukas Kuebler,3,Deutschland,29,23,old,low
+Schmid,Jonathan Schmid,3,Frankreich,32,12,rusty,low
+Keitel,Yannik Keitel,3,Deutschland,22,40,young,low
+Hoefler,Nicolas Hoefler,3,Deutschland,32,25,rusty,low
+Engelhardt,Yannik Engelhardt,3,Deutschland,21,4,young,nothing
+Santamaria,Baptiste Santamaria,3,Frankreich,27,140,mid,cheap
+Eggestein,Maximilian Eggestein,3,Deutschland,25,80,mid,cheap
+Haberer,Janik Haberer,3,Deutschland,28,35,old,low
+Wagner,Robert Wagner,3,Deutschland,18,5,teen,nothing
+Grifo,Vincenzo Grifo,3,Italien,29,120,old,cheap
+Weisshaupt,Noah Weisshaupt,3,Deutschland,20,17,young,low
+Sallai,Roland Sallai,3,Ungarn,25,120,mid,cheap
+Schade,Kevin Schade,3,Deutschland,20,70,young,cheap
+Jeong,Woo-Yeong Jeong,3,Suedkorea,22,55,young,cheap
+Hoeler,Lucas Hoeler,3,Deutschland,27,65,mid,cheap
+Demirovic,Ermedin Demirovic,3,Bosnien-Herzegowina,24,60,mid,cheap
+Petersen,Nils Petersen,3,Deutschland,33,15,rusty,low
+Vermeij,Vincent Vermeij,3,Niederlande,27,4,mid,nothing
+Burkart,Nishan Burkart,3,Schweiz,22,4,young,nothing
+FCK,1 FC Koeln,2,,,,,
+Schwaebe,Marvin Schwaebe,3,Deutschland,27,40,mid,low
+HornT,Timo Horn,3,Deutschland,29,20,old,low
+Urbig,Jonas Urbig,3,Deutschland,18,3,teen,nothing
+Koebbing,Matthias Koebbing,3,Deutschland,25,0,mid,nothing
+Huebers,Timo Huebers,3,Deutschland,25,75,mid,cheap
+Kilian,Luca Kilian,3,Deutschland,22,45,young,low
+Mere,Jorge Mere,3,Spanien,25,25,mid,low
+Chabot,Julian Chabot,3,Deutschland,24,20,mid,low
+Arrey-Mbi,Bright-Akwo Arrey-Mbi,3,Deutschland,19,13,teen,low
+Czichos,Rafael Czichos,3,Deutschland,32,10,rusty,nothing
+Hector,Jonas Hector,3,Deutschland,32,35,rusty,low
+HornJ,Jannes Horn,3,Deutschland,25,18,mid,low
+Katterbach,Noah Katterbach,3,Deutschland,21,17,young,low
+Schmitz,Benno Schmitz,3,Deutschland,27,30,mid,low
+Ehizibue,Kingsley Ehizibue,3,Nigeria,27,13,mid,low
+Skhiri,Ellyes Skhiri,3,Tunesien,27,130,mid,cheap
+Ljubicic,Dejan Ljubicic,3,Oesterreich,24,75,mid,cheap
+Oezcan,Salih Oezcan,3,Tuerkei,24,130,mid,cheap
+Hauptmann,Niklas Hauptmann,3,Deutschland,26,4,mid,nothing
+Olesen,Mathias Olesen,3,Luxemburg,21,4,young,nothing
+Duda,Ondrej Duda,3,Slowakei,27,40,mid,low
+Schaub,Louis Schaub,3,Oesterreich,27,18,mid,low
+Ostrak,Tomas Ostrak,3,Tschechien,22,8,young,nothing
+Kainz,Florian Kainz,3,Oesterreich,29,35,old,low
+Obuz,Marvin Obuz,3,Deutschland,20,3,young,nothing
+Thielmann,Jan Thielmann,3,Deutschland,20,75,young,cheap
+Schindler,Kingsley Schindler,3,Deutschland,28,8,old,nothing
+Uth,Mark Uth,3,Deutschland,30,30,old,low
+Modeste,Anthony Modeste,3,Frankreich,34,30,rusty,low
+Andersson,Sebastian Andersson,3,Schweden,30,20,old,low
+Lemperle,Tim Lemperle,3,Deutschland,20,20,young,low
+FSV,1 FSV Mainz 05,2,,,,,
+Zentner,Robin Zentner,3,Deutschland,26,50,mid,low
+Dahmen,Finn Dahmen,3,Deutschland,23,15,young,low
+Rieß,Lasse Rieß,3,Deutschland,19,2,teen,nothing
+Niakhate,Moussa Niakhate,3,Senegal,25,180,mid,cheap
+St Juste,Jeremiah St Juste,3,Niederlande,24,160,mid,cheap
+Bell,Stefan Bell,3,Deutschland,29,25,old,low
+HackA,Alexander Hack,3,Deutschland,27,25,mid,low
+Nemeth,David Nemeth,3,Oesterreich,20,23,young,low
+Martin,Aaron Martin,3,Spanien,24,50,mid,low
+Lucoqui,Anderson Lucoqui,3,Angola,23,18,young,low
+Widmer,Silvan Widmer,3,Schweiz,28,50,old,low
+Brosinski,Daniel Brosinski,3,Deutschland,32,5,rusty,nothing
+Stach,Anton Stach,3,Deutschland,22,130,young,cheap
+Tauer,Niklas Tauer,3,Deutschland,20,15,young,low
+Fuerstner,Stephan Fuerstner,3,Deutschland,33,1,rusty,nothing
+Barreiro,Leandro Barreiro,3,Luxemberg,21,80,young,cheap
+Kohr,Dominik Kohr,3,Deutschland,27,50,mid,low
+Fernandes,Edimilson Fernandes,3,Schweiz,25,20,mid,low
+Papela,Merveille Papela,3,Deutschland,20,4,young,nothing
+Shabani,Eniss Shabani,3,Deutschland,18,2,teen,nothing
+Rupil,Timothe Rupil,3,Luxemberg,18,1,teen,nothing
+Boetius,Jean Paul Boetius,3,Niederlande,27,40,mid,low
+LeeJ,Jae sung Lee,3,Suedkorea,28,30,old,low
+Stoeger,Kevin Stoeger,3,Oesterreich,27,16,mid,low
+Burgzorg,Delano Burgzorg,3,Niederlande,22,20,young,low
+Bobzien,Ben Bobzien,3,Deutschland,18,3,teen,nothing
+Nebel,Paul Nebel,3,Deutschland,18,13,teen,low
+Mizuta,Kaio Mizuta,3,Japan,21,2,young,nothing
+Burkhardt,Jonathan Burkhardt,3,Deutschland,20,170,young,cheap
+Onisiwo,Karim Onisiwo,3,Oesterreich,29,35,old,low
+Ingvartsen,Marcus Ingvartsen,3,Daenemark,25,25,mid,low
+Szalai,Adam Szalai,3,Ungarn,33,5,rusty,nothing
+Roesch,Romario Roesch,3,Deutschland,22,2,young,nothing
+TSG,TSG 1899 Hoffenheim,2,,,,,
+Baumann,Oliver Baumann,3,Deutschland,31,45,old,low
+Pentke,Philipp Pentke,3,Deutschland,36,3,rusty,nothing
+PhilippL,Luca Philipp,3,Deutschland,20,3,young,nothing
+Noll,Nahue Noll,3,Deutschland,20,3,young,nothing
+Posch,Stefan Posch,3,Oesterreich,24,100,mid,cheap
+Akpoguma,Kevin Akpoguma,3,Nigeria,26,60,mid,cheap
+Vogt,Kevin Vogt,3,Deutschland,29,35,old,low
+Che,Justin Che ,3,USA,17,30,teen,low
+Bicakcic,Ermin Bicakcic,3,Bosnien-Herzegowina,31,10,old,nothing
+Nordtveit,Havard Nordtveit,3,Norwegen,31,10,old,nothing
+AdamsK,Kasim Adams,3,Ghana,26,10,mid,nothing
+Huebner,Benjamin Huebner,3,Deutschland,31,10,old,nothing
+Haider,Gabriel Haider,3,Oesterreich,19,1,teen,nothing
+Koenig,Noah Koenig,3,Deutschland,18,1,teen,nothing
+Raum,David Raum,3,Deutschland,23,200,young,cheap
+John,Marco John,3,Deutschland,23,200,young,cheap
+Kaderabek,Pavel Kaderabek,3,Tschechien,29,50,old,low
+Grillitsch,Florian Grillitsch,3,Oesterreich,25,160,mid,cheap
+Stiller,Angelo Stiller,3,Deutschland,20,70,young,cheap
+Rudy,Sebastian Rudy,3,Deutschland,31,15,old,low
+Bogarde,Melayro Bogarde,3,Niederlande,19,12,teen,low
+Rueth,Fabian Rueth,3,Deutschland,19,1,teen,nothing
+Samassekou,Diadie Samassekou,3,Mali,25,16,mid,low
+Geiger,Dennis Geiger,3,Deutschland,23,90,young,cheap
+Tohumcu,Umut Tohumcu,3,Deutschland,16,2,teen,nothing
+Baumgartner,Christoph Baumgartner,3,Deutschland,21,220,young,average
+Gacinovic,Mijat Gacinovic,3,Serbien,26,25,mid,low
+Bischof,Tom Bischof,3,Deutschland,17,10,teen,nothing
+Bruun Larsen,Jacob Bruun Larsen,3,Daenemark,23,60,young,cheap
+Conte,Bambase Conte,3,Deutschland,18,2,teen,nothing
+Skov,Robert Skov,3,Daenemark,26,70,mid,cheap
+Bebou,Ihlas Bebou,3,Togo,28,160,old,cheap
+Rutter,Georginio Rutter,3,Frankreich,20,160,young,cheap
+Kramaric,Andrej Kramaric,3,Kroatien,31,120,old,cheap
+Dabbur,Munas Dabbur,3,Israel,30,40,old,low
+Adamyan,Sargis Adamyan,3,Armenien,29,35,old,low
+Beier,Maximilian Beier,3,Deutschland,19,30,teen,low
+Asllani,Fisnik Asllani,3,Deutschland,19,4,teen,nothing
+Proschwitz,Nick Proschwitz,3,Deutschland,35,2,rusty,nothing
+BMG,Borussia Moenchengladbach,2,,,,,
+Sommer,Yann Sommer,3,Schweiz,33,50,rusty,low
+Sippel,Tobias Sippel,3,Deutschland,34,4,rusty,nothing
+Olschokowsky,Jan Olschokowsky,3,Deutschland,20,3,young,nothing
+Kersken,Jonas Kersken,3,Deutschland,21,1,young,nothing
+Ginter,Matthias Ginter,3,Deutschland,28,180,old,cheap
+Elvedi,Nico Elvedi,3,Schweiz,25,180,mid,cheap
+Friedrich,Marvin Friedrich,3,Deutschland,26,80,mid,cheap
+Beyer,Jordan Beyer,3,Deutschland,22,45,young,low
+Jantschke,Tony Jantschke,3,Deutschland,32,8,rusty,nothing
+Gaal,Tom Gaal,3,Deutschland,21,1,young,nothing
+Doucoure,Mamadou Doucoure,3,Frankreich,24,1,mid,nothing
+Bensebaini,Ramy Bensebaini,3,Algerien,27,17,mid,low
+Netz,Luca Netz,3,Deutschland,19,65,teen,cheap
+Scally,Joe Scally,3,USA,19,80,teen,cheap
+Lainer,Stefan Lainer,3,Oesterreich,29,45,old,low
+Zakaria,Denis Zakaria,3,Schweiz,25,270,mid,average
+Kramer,Christoph Kramer,3,Deutschland,31,25,old,low
+Neuhaus,Florian Neuhaus,3,Deutschland,25,200,mid,cheap
+Kone,Kouadio Kone,3,Frankreich,21,180,young,cheap
+Benes,Laszlo Benes,3,Slowakei,24,30,mid,low
+Bennetts,Keanan Bennetts,3,Deutschland,23,10,young,nothing
+WolfH,Hannes Wolf,3,Oesterreich,23,50,young,low
+Stindl,Lars Stindl,3,Deutschland,33,25,rusty,low
+Noss,Conor Noss,3,Irland,21,7,young,nothing
+Muesel,Torben Muesel,3,Deutschland,22,4,young,nothing
+Plea,Alassane Plea,3,Frankreich,29,150,old,cheap
+Schroers,Mika Schroers,3,Deutschland,20,1,young,nothing
+Hofmann,Jonas Hofmann,3,Deutschland,29,130,old,cheap
+Herrmann,Patrick Herrmann,3,Deutschland,31,23,old,low
+Thuram,Marcus Thuram,3,Frankreich,24,200,mid,cheap
+Embolo,Breel Embolo,3,Schweiz,25,150,mid,cheap
+EFF,Eintracht Frankfurt,2,,,,,
+Trapp,Kevin Trapp,3,Deutschland,31,70,old,cheap
+Ramaj,Diant Ramaj,3,Deutschland,20,8,young,nothing
+Horz,Jannik Horz,3,Deutschland,19,2,teen,nothing
+Grahl,Jens Grahl,3,Deutschland,33,2,rusty,nothing
+Bignetti,Matteo Bignetti,3,Deutschland,33,3,rusty,nothing
+Ndicka,Evan Ndicka,3,Frankreich,22,320,young,average
+Tuta,Tuta,3,Brasilien,22,130,young,cheap
+Hinteregger,Martin Hinteregger,3,Oesterreich,29,90,old,cheap
+Toure,Almany Toure,3,Mali,26,35,mid,low
+Hasebe,Makoto Hasebe,3,Japan,38,8,rusty,nothing
+Lenz,Christopher Lenz,3,Deutschland,27,40,mid,low
+Schroeder,Jan Schroeder,3,Deutschland,19,2,teen,nothing
+da Costa,Danny da Costa,3,Deutschland,28,23,old,low
+Durm,Erik Durm,3,Deutschland,30,12,old,low
+Chandler,Timothy Chandler,3,USA,32,12,rusty,low
+Jakic,Kristijan Jakic,3,Kroatien,25,90,mid,cheap
+Ilsanker,Stefan Ilsanker,3,Oesterreich,33,10,rusty,nothing
+Sow,Djibril Sow,3,Schweiz,25,220,mid,average
+Rode,Sebastian Rode,3,Deutschland,31,25,old,low
+Barkok,Aymen Barkok,3,Deutschland,24,18,mid,low
+Foti,Antonia Foti,3,Zypern,18,4,teen,nothing
+Kostic,Filip Kostic,3,Serbien,29,240,old,average
+Kamada,Daichi Kamada ,3,Japan,25,220,mid,average
+Lindstroem,Jesper Lindstroem,3,Daenemark,22,170,young,cheap
+Hrustic,Ajdin Hrustic,3,Australien,25,30,mid,low
+Zuber,Steven Zuber,3,Schweiz,30,25,old,low
+Younes,Amin Younes,3,Deutschland,28,15,old,low
+SchaeferG,Gianluca Schaefer,3,Deutschland,19,2,teen,nothing
+Hauge,Jens Petter Hauge,3,Norwegen,22,80,young,cheap
+Borre,Rafael Borre,3,Kolumbien,26,200,mid,cheap
+Paciencia,Goncalo Paciencia,3,Portugal,27,30,mid,low
+Lammers,Sam Lammers,3,Niederlande,25,30,mid,low
+Ache,Ragnar Ache,3,Deutschland,23,15,young,low
+Herrero,Enrique Herrero,3,Spanien,17,3,teen,nothing
+WOB,VfL Wolfsburg,2,,,,,
+Casteels,Koen Casteels,3,Belgien,29,110,old,cheap
+Pervan,Pavao Pervan,3,Oesterreich,33,6,rusty,nothing
+Schulze,Philipp Schulze,3,Deutschland,18,2,teen,nothing
+Klinger,Niklas Klinger,3,Deutschland,25,1,mid,nothing
+Lacroix,Maxence Lacroix,3,Frankreich,21,200,young,cheap
+Bornauw,Sebastiaan Bornauw,3,Belgien,22,100,young,cheap
+Brooks,John Anthony Brooks,3,USA,28,70,old,cheap
+van de Ven,Micky van de Ven,3,Niederlande,20,40,young,low
+MacNulty,Anselmo Garcia MacNulty,3,Irland,18,3,teen,nothing
+Lang,Jannis Lang,3,Deutschland,18,2,teen,nothing
+Otavio,Paulo Otavio,3,Brasilien,26,60,mid,cheap
+Roussillon,Jerome Roussillon,3,Frankreich,28,45,old,low
+Baku,Ridle Baku,3,Deutschland,23,200,young,cheap
+Mbabu,Kevin Mbabu,3,Schweiz,26,90,mid,cheap
+William,William,3,Brasilien,26,25,mid,low
+Guilavogui,Josuha Guilavogui,3,Frankreich,30,35,old,low
+Schlager,Xaver Schlager,3,Oesterreich,23,270,young,average
+Arnold,Maximilian Arnold,3,Deutschland,27,170,mid,cheap
+Vranckx,Aster Vranckx,3,Belgien,18,100,teen,cheap
+Gerhardt,Yannick Gerhardt,3,Deutschland,27,60,mid,cheap
+Walther,Gil-Linnart Walther,3,Deutschland,18,,teen,nothing
+Paredes,Kevin Paredes,3,USA,18,50,teen,low
+NmechaF,Felix Nmecha,3,Deutschland,20,20,young,low
+Brekalo,Josip Brekalo,3,Kroatien,23,150,young,cheap
+Marmoush,Omar Marmoush,3,Aegypten,22,60,young,cheap
+Steffen,Renato Steffen,3,Schweiz,29,20,old,low
+Waldschmidt,Luca Waldschmidt,3,Deutschland,25,70,mid,cheap
+PhilippM,Maximilian Philipp,3,Deutschland,27,45,mid,low
+Kruse,Max Kruse,3,Deutschland,33,35,rusty,low
+Mehmedi,Admir Mehmedi,3,Schweiz,30,10,old,nothing
+NmechaL,Lukas Nmecha,3,Deutschland,22,180,young,cheap
+Weghorst,Wout Weghorst,3,Niederlande,28,140,old,cheap
+Wind,Jonas Wind,3,Daenemark,22,140,young,cheap
+Bialek,Bartosz Bialek,3,Polen,19,40,teen,low
+Ginczek,Daniel Ginczek,3,Deutschland,30,9,old,nothing
+BOC,VfL Bochum,2,,,,,
+Riemann,Manuel Riemann,3,Deutschland,32,12,rusty,low
+Esser,Michael Esser,3,Deutschland,33,4,rusty,nothing
+Ernst,Tjark Ernst,3,Deutschland,18,2,teen,nothing
+Grave,Paul Grave,3,Deutschland,20,1,young,nothing
+Bella-Kotchap,Armel Bella-Kotchap,3,Deutschland,19,100,teen,cheap
+Leitsch,Maxim Leitsch,3,Deutschland,23,50,young,low
+Masovic,Erhan Masovic,3,Serbien,22,25,young,low
+Lampropoulos,Vasilios Lampropoulos,3,Griechenland,31,5,old,nothing
+Decarli,Saulo Decarli,3,Schweiz,29,3,old,nothing
+Soares,Danilo Soares,3,Brasilien,29,22,old,low
+Stafylidis,Konstantinos Stafylidis,3,Griechenland,27,18,mid,low
+Roemling,Moritz Roemling,3,Deutschland,20,2,young,nothing
+Bockhorn,Herbert Bockhorn,3,Deutschland,26,8,mid,nothing
+Gamboa,Cristian Gamboa,3,Costa Rica,31,7,old,nothing
+Losilla,Anthony Losilla,3,Frankreich,35,5,rusty,nothing
+Rexhbecaj,Elvis Rexhbecaj,3,Deutschland,23,40,young,low
+Loewen,Eduard Loewen,3,Deutschland,24,20,mid,low
+Osterhage,Patrick Osterhage,3,Deutschland,21,9,young,nothing
+Tesche,Robert Tesche,3,Deutschland,34,4,rusty,nothing
+Chibsah,Raman Chibsah,3,Ghana,28,3,old,nothing
+Pantovic,Milos Pantovic,3,Serbien,24,22,mid,low
+Weilandt,Tom Weilandt,3,Deutschland,29,3,old,nothing
+Holtmann,Gerrit Holtmann,3,Philippinen,26,45,mid,low
+Antwi-Adjei,Christopher Antwi-Adjei,3,Ghana,27,10,mid,nothing
+Blum,Danny Blum,3,Deutschland,30,6,old,nothing
+Asano,Takuma Asano,3,Japan,26,30,mid,low
+Bonga,Tarsis Bonga,3,Deutschland,24,3,mid,nothing
+Polter,Sebastian Polter,3,Deutschland,30,22,old,low
+Locadia,Juergen Locadia,3,Niederlande,27,20,mid,low
+Zoller,Simon Zoller,3,Deutschland,30,11,old,low
+Ganvoula,Silvere Ganvoula,3,Kongo,25,6,mid,nothing
+Novothny,Soma Novothny,3,Ungarn,27,4,mid,nothing
+Hartwig,Luis Hartwig,3,Deutschland,18,2,teen,nothing
+FCA,FC Augsburg,2,,,,,
+Gikiewicz,Rafal Gikiewicz,3,Polen,33,12,rusty,low
+Koubek,Tomas Koubek,3,Tschechien,28,10,old,nothing
+Klein,Daniel Klein,3,Deutschland,20,2,young,nothing
+Oxford,Reece Oxford,3,England,22,120,young,cheap
+Uduokhai,Felix Uduokhai,3,Deutschland,23,100,young,cheap
+Gouweleeuw,Jeffrey Gouweleeuw,3,Niederlande,29,35,old,low
+Winther,Frederik Winther,3,Daenemark,20,10,young,nothing
+Iago,Iago,3,Brasilien,24,55,mid,cheap
+Pedersen,Mads Pedersen,3,Daenemark,24,20,mid,low
+Guenther,Lasse Guenther,3,Deutschland,18,10,teen,nothing
+Gumny,Robert Gumny,3,Polen,23,25,young,low
+Framberger,Raphael Framberger,3,Deutschland,25,15,mid,low
+Dorsch,Niklas Dorsch,3,Deutschland,23,100,young,cheap
+Gruezo,Carlos Gruezo,3,Ecuador,26,32,mid,low
+Strobl,Tobias Strobl,3,Deutschland,31,9,old,nothing
+Salifou,Dikeni Salifou,3,Togo,18,,teen,nothing
+Maier,Arne Maier,3,Deutschland,22,55,young,cheap
+Moravek,Jan Moravek,3,Tschechien,31,5,old,nothing
+Civeja,Tim Civeja,3,Deutschland,19,2,teen,nothing
+SchmidtD,Dominic Schmidt,3,Deutschland,20,1,young,nothing
+Jensen,Fredrik Jensen,3,Finnland,23,15,young,low
+Vargas,Ruben Vargas,3,Schweiz,22,80,young,cheap
+Hahn,Andre Hahn,3,Deutschland,30,20,old,low
+Sarenren Bazee,Noah Joel Sarenren Bazee,3,Deutschland,24,10,mid,nothing
+Caligiuri,Daniel Caligiuri,3,Italien,33,8,rusty,nothing
+Pepi,Ricardo Pepi,3,USA,18,90,teen,cheap
+Gregoritsch,Michael Gregoritsch,3,Oesterreich,27,45,mid,low
+Zeqiri,Andi Zeqiri,3,Schweiz,22,23,young,low
+Niederlechner,Florian Niederlechner,3,Deutschland,30,22,old,low
+Cordova,Sergio Cordova,3,Venezuela,23,10,young,nothing
+Finnbogason,Alfred Finnbogason,3,Island,32,7,rusty,nothing
+Malone,Maurice Malone,3,Deutschland,20,5,young,nothing
+VFB,VfB Stuttgart,2,,,,,
+MuellerF,Florian Mueller,3,Deutschland,23,55,young,cheap
+Bredlow,Fabian Bredlow,3,Deutschland,26,5,mid,nothing
+Schock,Florian Schock,3,Deutschland,20,2,young,nothing
+Mavropanos,Konstantinos Mavropanos,3,Griechenland,23,150,young,cheap
+Anton,Waldemar Anton,3,Deutschland,24,60,mid,cheap
+Ito,Hiroki Ito,3,Japan,22,45,young,low
+Maglica,Matej Maglica,3,Kroatien,22,9,young,nothing
+Bazzoli,Luca Bazzoli,3,Deutschland,20,2,young,nothing
+Sosa,Borna Sosa,3,Kroatien,23,230,young,average
+Stenzel,Pascal Stenzel,3,Deutschland,25,15,mid,low
+EndoW,Wataru Endo,3,Japan,28,80,old,cheap
+Karazor,Atakan Karazor,3,Deutschland,24,45,mid,low
+Ahamada,Naouirou Ahamada,3,Frankreich,19,15,teen,low
+Mola,Clinton Mola,3,England,20,10,young,nothing
+Weil,Richard Weil,3,Deutschland,33,1,rusty,nothing
+Mangala,Orel Mangala,3,Belgien,23,150,young,cheap
+Millot,Enzo Millot,3,Frankreich,18,20,teen,low
+Nartey,Nikolas Nartey,3,Daenemark,21,18,young,low
+Silas,Silas Katompa Mvumpa,3,DR Kongo,22,150,young,cheap
+Thommy,Erik Thommy,3,Deutschland,26,18,mid,low
+Foerster,Philipp Foerster,3,Deutschland,26,25,mid,low
+Klimowicz,Mateo Klimowicz,3,Deutschland,20,20,young,low
+Tibidi,Alexis Tibidi,3,Frankreich,17,12,teen,low
+Klement,Philipp Klement,3,Deutschland,28,10,old,nothing
+Beyaz,Oemer Beyaz,3,Tuerkei,17,12,teen,low
+Egloff,Lilian Egloff,3,Deutschland,18,8,teen,nothing
+Didavi,Daniel Didavi,3,Deutschland,31,5,old,nothing
+MichelF,Falko Michel,3,Deutschland,20,3,young,nothing
+CoulibalyT,Tanguy Coulibaly,3,Frankreich,20,25,young,low
+Massimo,Roberto Massimo,3,Deutschland,20,20,young,low
+Churlinov,Darko Churlinov,3,Nordmazedonien,20,13,young,low
+Fuehrich,Chris Fuehrich,3,Deutschland,23,40,young,low
+Kalajdzic,Sasa Kalajdzic,3,Oesterreich,23,250,young,average
+Tomas,Tiago Tomas,3,Portugal,20,70,young,cheap
+Faghir,Wahid Faghir,3,Daenemark,17,30,teen,low
+Sankoh,Mohamed Sankoh,3,Niederlande,17,10,teen,nothing
+Al Ghaddioui,Hamadi Al Ghaddioui,3,Marokko,30,7,old,nothing
+BSC,Hertha BSC,2,,,,,
+Schwolow,Alexander Schwolow,3,Deutschland,29,30,old,low
+Christensen,Oliver Christensen,3,Daenemark,22,15,young,low
+Lotka,Marcel Lotka,3,Polen,20,13,young,low
+Koerber,Nils-Jonathan Koerber,3,Deutschland,24,3,mid,nothing
+Jarstein,Rune Jarstein,3,Norwegen,36,3,rusty,nothing
+Stark,Niklas Stark,3,Deutschland,26,65,mid,cheap
+Torunarigha,Jordan Torunarigha,3,Deutschland,23,50,young,low
+Dardai,Marton Dardai,3,Deutschland,19,50,teen,low
+Kempf,Marc Oliver Kempf,3,Deutschland,26,45,mid,low
+Gechter,Linus Gechter,3,Deutschland,17,45,teen,low
+Boyata,Dedryck Boyata,3,Belgien,30,35,old,low
+Atemona,Christalino Atemona,3,Deutschland,19,2,teen,nothing
+Roecker,Cimo Roecker,3,Deutschland,27,1,mid,nothing
+Morgenstern,Marlon Morgenstern,3,Deutschland,20,1,young,nothing
+Mittelstaedt,Maximilian Mittelstaedt,3,Deutschland,24,45,mid,low
+Bjoerkan,Fredrik Bjoerkan,3,Norwegen,22,25,young,low
+Plattenhardt,Marvin Plattenhardt,3,Deutschland,29,20,old,low
+Zeefuik,Deyovaisio Zeefuik,3,Niederlande,23,30,young,low
+Kluenter,Lukas Kluenter,3,Deutschland,25,12,mid,low
+Pekarik,Peter Pekarik,3,Slowakei,34,7,rusty,nothing
+Eitschberger,Julian Eitschberger,3,Deutschland,17,,teen,nothing
+Tousart,Lucas Tousart,3,Frankreich,24,90,mid,cheap
+Ascacibar,Santiago Ascacibar,3,Argentinien,24,65,mid,cheap
+Dirkner,Jonas Dirkner,3,Deutschland,18,2,teen,nothing
+Serdar,Suat Serdar,3,Deutschland,24,80,mid,cheap
+Ekkelenkamp,Jurgen Ekkelenkamp,3,Niederlande,21,35,young,low
+Darida,Vladimir Darida,3,Tschechien,30,22,old,low
+Michelbrink,Jonas Michelbrink,3,Deutschland,20,5,young,nothing
+Albrecht,Julian Albrecht,3,Deutschland,19,2,teen,nothing
+Boateng,Kevin-Prince Boateng,3,Ghana,34,9,rusty,nothing
+Jastrzembski,Dennis Jastrzembski,3,Deutschland,21,8,young,nothing
+Dilrosun,Javairo Dilrosun,3,Niederlande,23,60,young,cheap
+Maolida,Myziane Maolida,3,Frankreich,22,30,young,low
+Kade,Anton Kade,3,Deutschland,17,8,teen,nothing
+Lukebakio,Dodi Lukebakio,3,Belgien,23,75,young,cheap
+Richter,Marco Richter,3,Deutschland,23,60,young,cheap
+Nsona,Kelian Nsona,3,Frankreich,19,12,teen,low
+LeeD,Dong-jun Lee,3,Suedkorea,24,12,mid,low
+Winkler,Marten Winkler,3,Deutschland,18,2,teen,nothing
+Cunha,Matheus Cunha,3,Brasilien,22,300,young,average
+Piatek,Krzysztof Piatek,3,Polen,26,120,mid,cheap
+Jovetic,Stevan Jovetic,3,Montenegro,31,25,old,low
+Belfodil,Ishak Belfodil,3,Algerien,29,22,old,low
+Selke,Davie Selke,3,Deutschland,26,18,mid,low
+Wollschlaeger,Luca Wollschlaeger,3,Deutschland,18,,teen,nothing
+ABF,Arminia Bielefeld,2,,,,,
+Ortega,Stefan Ortega,3,Deutschland,28,60,old,cheap
+Kapino,Stefanos Kapino,3,Griechenland,27,7,mid,nothing
+Linner,Oscar Linner,3,Schweden,24,3,mid,nothing
+SchulzA,Arne Schulz,3,Deutschland,18,1,teen,nothing
+Pieper,Amos Pieper,3,Deutschland,23,50,young,low
+Nilsson,Joakim Nilsson,3,Schweden,27,35,mid,low
+Ramos,Guilherme Ramos,3,Portugal,23,3,young,nothing
+Andrade,Andres Andrade,3,Panama,22,3,young,nothing
+Hoorn,Mike van der Hoorn,3,Niederlande,28,16,old,low
+Medina,Nathan de Medina,3,Belgien,23,8,young,nothing
+BauerK,Kenson Bauer,3,Deutschland,17,,teen,nothing
+Bello,George Bello,3,USA,19,30,teen,low
+Czyborra,Lennart Czyborra,3,Deutschland,22,23,young,low
+Laursen,Jacob Laursen,3,Daenemark,26,17,mid,low
+Brunner,Cedric Brunner,3,Schweiz,27,32,mid,low
+Prietl,Manuel Prietl,3,Oesterreich,29,18,old,low
+Kunze,Fabian Kunze,3,Deutschland,23,10,young,nothing
+Frommann,Julian Frommann,3,Deutschland,18,2,teen,nothing
+Schoepf,Alessandro Schoepf,3,Oesterreich,27,25,mid,low
+Hartel,Marcel Hartl,3,Deutschland,25,18,mid,low
+Vasiliadis,Sebastian Vasiliadis,3,Griechenland,23,18,young,low
+Ince,Burak Ince,3,Tuerkei,17,15,teen,low
+Castro,Gonzalo Castro,3,Deutschland,34,5,rusty,nothing
+Okugawa,Masaya Okugawa,3,Japan,25,50,mid,low
+Cherny,Vladislav Cherny,3,Deutschland,18,1,teen,nothing
+Dogan,Cem-Ali Dogan,3,Tuerkei,16,,teen,nothing
+HackR,Robin Hack,3,Deutschland,22,20,young,low
+Wimmer,Patrick Wimmer,3,Oesterreich,20,80,young,cheap
+Lasme,Bryan Lasme,3,Frankreich,22,10,young,nothing
+Gebauer,Christian Gebauer,3,Oesterreich,27,5,mid,nothing
+Krueger,Florian Krueger,3,Deutschland,22,18,young,low
+Serra,Janni Serra,3,Deutschland,23,18,young,low
+Klos,Fabian Klos,3,Deutschland,33,4,rusty,nothing
+SGF,Greuther Fuerth,2,,,,,
+Linde,Andreas Linde,3,Schweden,27,9,mid,nothing
+Burchert,Sascha Burchert,3,Deutschland,31,4,old,nothing
+Funk,Marius Funk,3,Deutschland,25,3,mid,nothing
+Schaffran,Leon Schaffran,3,Deutschland,22,1,young,nothing
+SchulzL,Lasse Schulz,3,Finnland,18,1,teen,nothing
+BauerM,Maximilian Bauer,3,Deutschland,21,16,young,low
+Hoogma,Justin Hoogma,3,Niederlande,23,10,young,nothing
+Viergever,Nick Viergever,3,Niederlande,31,8,old,nothing
+Griesbeck,Sebastian Griesbeck,3,Deutschland,30,7,old,nothing
+Jung,Gideon Jung,3,Deutschland,26,7,mid,nothing
+Barry,Abdourahmane Barry,3,Frankreich,21,3,young,nothing
+Fobassam,Oliver Fobassam,3,Deutschland,18,2,teen,nothing
+Itter,Luca Itter,3,Deutschland,22,15,young,low
+Willems,Jetro Willems,3,Niederlande,27,10,mid,nothing
+Meyerhoefer,Marco Meyerhoefer,3,Deutschland,25,20,mid,low
+Asta,Simon Asta,3,Deutschland,20,9,young,nothing
+Christiansen,Max Christansen,3,Deutschland,24,15,mid,low
+Fein,Adrian Fein,3,Deutschland,22,7,young,nothing
+Sarpei,Hans Nunoo Sarpei,3,Ghana,22,5,young,nothing
+Seguin,Paul Seguin,3,Deutschland,26,22,mid,low
+TillmanT,Timothy Tillman,3,Deutschland,22,18,young,low
+Raschl,Tobias Raschl,3,Deutschland,21,10,young,nothing
+Green,Julian Green,3,USA,26,10,mid,nothing
+Seufert,Nils Seufert,3,Deutschland,24,6,mid,nothing
+Dudziak,Jeremy Dudziak,3,Deutschland,25,16,mid,low
+Torlak,Mert Torlak,3,Tuerkei,18,1,teen,nothing
+Leweling,Jamie Leweling,3,Deutschland,20,45,young,low
+Hrgota,Branimir Hrgota,3,Schweden,28,20,old,low
+Ngankam,Jessic Ngankam,3,Deutschland,20,20,young,low
+Itten,Cedric Itten,3,Schweiz,24,20,mid,low
+Pululu,Afimico Pululu,3,Angola,22,10,young,nothing
+Nielsen,Havard Nielsen,3,Norwegen,27,10,mid,nothing
+Abiama,Dickson Abiama,3,Nigeria,22,8,young,nothing
+Kehr,Robin Kehr,3,Deutschland,21,2,young,nothing
+none,privat beraten,1,,,,,
+100and10,100and10 Sportsmanagement,1,Deutschland,,,,
+1K,1K Sportsmanagement,1,Deutschland,,,,
+11WINS,11WINS GmbH,1,Deutschland,,,,
+act,act SPORT GROUP,1,Kanada,,,,
+acta7,acta7,1,Deutschland,,,,
+AIS,AIS Sports Service,1,Frankreich,,,,
+AKA,AKA Global GmbH,1,Deutschland,,,,
+AMS,AMS Consulting,1,Deutschland,,,,
+Apertura,Apertura Sports GmbH,1,Deutschland,,,,
+ASBW,ASBW Sport Marketing GmbH,1,Deutschland,,,,
+ATG,ATG Sports Management Inc,1,Kanada,,,,
+ATHLEADZ,ATHLEADZ,1,Deutschland,,,,
+Atta,Emefie Aneka Atta,1,Norwegen,,,,
+B360,B360 Sports Agency,1,Deutschland,,,,
+BALLWERK,BALLWERK Sports GmbH,1,Deutschland,,,,
+BernardC,Bernard Collignon,1,Frankreich,,,,
+Bertolucci,Bertolucci Sports,1,Brasilien,,,,
+Bigpoint,Bigpoint,1,Deutschland,,,,
+BMGS,BMGSport,1,Polen,,,,
+BMS,BMS Sportconsulting GmbH,1,Deutschland,,,,
+BOKS,Bjoern O Krohn Sports,1,Deutschland,,,,
+Boutique,Boutique Transfers,1,Daenemark,,,,
+Breeze,Breeze Sports GmbH,1,Deutschland,,,,
+Briem,Briem Soccer Connection,1,Deutschland,,,,
+BSGroup,BS Group - BS Law,1,Frankreich,,,,
+BY,BY Sport Consulting,1,Schweiz,,,,
+BYANDFOR,BY and FOR Sport Management,1,Spanien,,,,
+CAA,CAA Base Ltd,1,England,,,,
+CALCYO,CALCYO,1,Deutschland,,,,
+Carmenta,Carmenta,1,Frankreich,,,,
+CastagninoSAS,Eric Castagnino SAS,1,Frankreich,,,,
+Cherry,Cherry Sports,1,Belgien,,,,
+CHS,CHOVANECSPORT,1,Tschechien,,,,
+Classico,Classico,1,Frankreich,,,,
+CN,CN Sports,1,Deutschland,,,,
+COMET,COMET SportsEvents,1,Deutschland,,,,
+CSA,Concept Sport Agency,1,Frankreich,,,,
+D20,D20 Sports,1,Portugal,,,,
+DC,DC INTERNATIONAL SPORTS MANAGEMENT GMBH,1,Deutschland,,,,
+Division,Futbol Division,1,Spanien,,,,
+Doorn,Armand Doorn,1,Deutschland,,,,
+DR RMB Sports,DR Dahm Richter Spielerberatung GmbH RMB Sports,1,Deutschland,,,,
+DWSports,DW Sports Management,1,Frankreich,,,,
+Eleven,Eleven Talent Group,1,Spanien,,,,
+Elite,Elite Project Group Ltd,1,England,,,,
+EM,EM Sports Consulting,1,Ungarn,,,,
+EMG,EMG Mundial,1,Deutschland,,,,
+EWS,Emal Wardak Sales,1,Deutschland,,,,
+Engels,Stephan Engels,1,Deutschland,,,,
+Epic,Epic Sports,1,Portugal,,,,
+ESHA,ESHA SPORTMARKETING GMBH,1,Schweiz,,,,
+Euro,Eurosportsmanagement,1,Liechtenstein,,,,
+eXcellence,Sports eXcellence Group,1,Deutschland,,,,
+Excensy,Excensy,1,Schweiz,,,,
+Extra,Extra Ball SA,1,Paraguay,,,,
+Fabryka,Fabryka Futbol,1,Polen,,,,
+Facundo,Facundo Fraga,1,Spanien,,,,
+fairsport,fairsport GmbH,1,Deutschland,,,,
+feelsoccer,Feel Soccer GmbH,1,Deutschland,,,,
+Felicevich,Fernando Felicevich,1,Großbritannien,,,,
+FF,Family and Football,1,Deutschland,,,,
+FG,FG Sports GmbH,1,Deutschland,,,,
+Fischer,Rechtsanwalt Oliver Fischer,1,Deutschland,,,,
+Footballgoal,Footballgoal,1,Deutschland,,,,
+Froehlich,Froehlich Sportmanagement GmbH,1,Deutschland,,,,
+FSB,FSB Spielerberatung GmbH,1,Deutschland,,,,
+FSC,Future Sports Concept,1,Deutschland,,,,
+FUTURE11,FUTURE11 GmbH,1,Deutschland,,,,
+Gelu,Gelu Rodriguez,1,Spanien,,,,
+Gestifute,Gestifute,1,Portugal,,,,
+GKSA,GoldKick SA,1,Schweiz,,,,
+GoalSky,GoalSky GmbH,1,Deutschland,,,,
+GOOLD,GOOLD Soccer Agency,1,Deutschland,,,,
+GPM,Golden Patch Management,1,Deutschland,,,,
+GSM,Global Soccer Management,1,Schweden,,,,
+GW,Guido Walter,1,Deutschland,,,,
+Gutfleisch,Dr Marco Gutfleisch,1,Deutschland,,,,
+HAGMAYR,HAGMAYR Sportmanagement,1,Oesterreich,,,,
+Haspel,Haspel Sportconsulting,1,Deutschland,,,,
+HCM,HCM Sports Management,1,Singapur,,,,
+Hebel,Dirk Hebel,1,Deutschland,,,,
+Headtrick,Headtrick GmbH,1,Deutschland,,,,
+Herzog,Karl M Herzog Sportmanagement,1,Deutschland,,,,
+Hexagon,Hexagon,1,Frankreich,,,,
+HMH,HMH Sportsmanagement,1,Deutschland,,,,
+HSP,HSP SportsManagement,1,Deutschland,,,,
+HuGu,HuGu,1,Deutschland,,,,
+ICMStellar,ICM Stellar Sports,1,England,,,,
+IFM,International Football Management GmbH,1,Schweiz,,,,
+INTEAM,INTEAMSPORTS,1,Deutschland,,,,
+IntSM,Int Sport Management,1,Belgien,,,,
+INVSPORT,INVSPORT Sergio Barila,1,Spanien,,,,
+ISM,ISM Int Soccer Management GmbH,1,Deutschland,,,,
+JEB,JEB Entertainment Co,1,Japan,,,,
+JFSM,John Froehlich Sports Management,1,Deutschland,,,,
+JV,JV Sports SL,1,Spanien,,,,
+KAF,Karlheinz Foerster,1,Deutschland,,,,
+Keyscout,Keyscout Football,1,VAE,,,,
+KF,Konstantinos Farras,1,Deutschland,,,,
+KFM,KFM,1,Polen,,,,
+KL,KL Sportbase,1,Deutschland,,,,
+Koegl,Koegl und Partner GmbH,1,Deutschland,,,,
+KSM,Kay Sports Management,1,Ghana,,,,
+KuR,Kick and Run Sports,1,Deutschland,,,,
+LEADERBROCK,LEADERBROCK,1,Spanien,,,,
+Leite,Carlos Leite,1,Brasilien,,,,
+LIAN,LIAN Sports Group,1,Irland,,,,
+LITCHI,LITCHI AG,1,Schweiz,,,,
+LK,LK Management,1,Deutschland,,,,
+Lorimanagement,Lorimanagement,1,Deutschland,,,,
+LowensSport,Lowens Sport,1,Deutschland,,,,
+LS,LS Football,1,Italien,,,,
+Lucky13,Lucky 13 GmbH,1,Deutschland,,,,
+Match2gether,Match2gether,1,Deutschland,,,,
+MB,MB Sports,1,Deutschland,,,,
+MichaelB,International Soccer Consulting Dr Michael Becker,1,Deutschland,,,,
+MK,MK Sport Consulting GmbH,1,Deutschland,,,,
+MR,MR Sport Managemant GmbH,1,Deutschland,,,,
+MS,M Soccermanagement,1,Deutschland,,,,
+MSG,Marketing Sport Group Agency,1,Tschechien,,,,
+MTG,More than Goals,1,Niederlande,,,,
+MTS,More than Sport GmbH,1,Oesterreich,,,,
+MunichF,Munich Football Management,1,Deutschland,,,,
+Neblung,Neblung Sportsnetwork,1,Deutschland,,,,
+Neubauer13,Neubauer 13 GmbH,1,Deutschland,,,,
+NG360,NG360,1,Deutschland,,,,
+NGM,NGM Sports,1,Deutschland,,,,
+Niagara,Niagara Sports Company,1,Bosnien-Herzegowina,,,,
+NOACK,NOACK Sports GmbH,1,Deutschland,,,,
+Nomi,Nomi Sports,1,Schweiz,,,,
+NS,Nordic Sky,1,Schweden,,,,
+NSG,Nordic Sports Group APS,1,Schweden,,,,
+OneII,One II Agency,1,Niederlande,,,,
+OnlyPro,Only Pro Sport,1,Frankreich,,,,
+PEP,PEP Consulting,1,Deutschland,,,,
+PESM,PESM,1,Deutschland,,,,
+PF,Players Factory,1,Deutschland,,,,
+Pimenta,Rafaela Pimenta,1,Brasilien,,,,
+PIS,People in Sport,1,Daenemark,,,,
+Proeleven,Proeleven SA,1,Portugal,,,,
+Profile,Sport Profile,1,Frankreich,,,,
+Prolific,Prolific Sport Group,1,England,,,,
+Promoesport,Promoesport,1,Andorra,,,,
+PROProfil,PRO Profil GmbH,1,Deutschland,,,,
+PSM,Power Sports Management,1,Griechenland,,,,
+PURE,PURE Sportsmanagement,1,Niederlande,,,,
+Quilon,Manuel Garcia Quilon,1,Spanien,,,,
+RELC,RELC Sports,1,Deutschland,,,,
+RobertoT,Roberto Tukada,1,Japan,,,,
+ROGON,ROGON,1,Deutschland,,,,
+ROOF,ROOF,1,Deutschland,,,,
+Rummenigge,Rummenigge Sport Marketing,1,Deutschland,,,,
+SAM,Sport Avenir Management International,1,Frankreich,,,,
+SBE,SBE Managemant AG,1,Schweiz,,,,
+SBS,Sport Business SOCCER GbR,1,Deutschland,,,,
+SC,Sport Cover,1,Frankreich,,,,
+SchneiderR,Robert Schneider,1,Deutschland,,,,
+SCS,SC Sports Management International SA,1,Italien,,,,
+SD,SD Sportmanagement,1,Deutschland,,,,
+SEG,SEG,1,Niederlande,,,,
+SETH,SETH Sports Agency,1,USA,,,,
+SISCM,Signature ISCM AG,1,Schweiz,,,,
+Sisic,Marjan Sisic,1,Kroatien,,,,
+Skylar,Skylar,1,Deutschland,,,,
+SMG,SMG GmbH,1,Deutschland,,,,
+Soccer,Soccer and more,1,Deutschland,,,,
+SoccerM,Soccer Mondial AG,1,Schweiz,,,,
+Soccertalk,Soccertalk GmbH,1,Deutschland,,,,
+Solbakken,Solbakken Player Solitude,1,Norwegen,,,,
+Spanier,Spanier Sportsmanagement,1,Deutschland,,,,
+SPOCS,SPOCS GLOBAL SPORTS GMBH,1,Deutschland,,,,
+SPORTINVEST,SPORT INVEST INTERNATIONAL,1,Tschechien,,,,
+Sports360,Sports360 GmbH,1,Deutschland,,,,
+SPS,Solbakken Player Solution,1,Nowegen,,,,
+StarsFriends,Stars and Friends International Holding GmbH,1,Slowakei,,,,
+Stirr,Stirr Associates,1,Belgien,,,,
+SV,Soccer Vision,1,Niederlande,,,,
+SWSports,SWSports,1,Deutschland,,,,
+SXI,Starting XI Player Management,1,Kanada,,,,
+T21,T21plus,1,Deutschland,,,,
+Talcon,Talcon Management GmbH,1,Deutschland,,,,
+TB,TBSportmarketing GmbH,1,Deutschland,,,,
+TDL,TDL Sports Management,1,Schweiz,,,,
+Teamgeist,Teamgeist Sportmanagement GmbH,1,Deutschland,,,,
+Teamplayer,Teamplayer Sportmanagement,1,Deutschland,,,,
+Tenet,Tenet Football,1,Deutschland,,,,
+TF,Think forward Sportmanagement GmbH,1,Deutschland,,,,
+TFM,TFM Agency,1,Brasilien,,,,
+TKG,The Kulture Group,1,Niederlande,,,,
+TPWE,TPWE GmbH,1,Deutschland,,,,
+Trois,Trois Akademie,1,Deutschland,,,,
+TrueSports,TrueSports GmbH,1,Deutschland,,,,
+TuB,Talents and Pros by Solutions,1,Deutschland,,,,
+UDN,UDN Sports,1,Japan,,,,
+Unique,Unique Sports Group,1,England,,,,
+Universal,Universal Sportsmanagement GmbH,1,Deutschland,,,,
+UNS,Universal Sports Japan Ltd ,1,Japan,,,,
+USFA,USFA Management,1,Frankreich,,,,
+vanBuyten,Daniel van Buyten,1,Belgien,,,,
+VIDA,VIDA 11,1,Deutschland,,,,
+VV,VV Consulting ,1,Monaco,,,,
+V4S,Vision4Soccer,1,Niederlande,,,,
+Wasserman,Wasserman,1,USA,,,,
+WIM,World in Motion,1,England,,,,
+WINStar,WINStar Management,1,Deutschland,,,,
+Wolfs,Wolfs,1,Deutschland,,,,
+WoS,Word of Sports,1,Griechenland,,,,
+WSA,World Soccer Agency,1,Italien,,,,
+WUK,WUK Fairplay,1,Deutschland,,,,
+YAATS,YAATS Sports,1,Frankreich,,,,
+YMU,YMU Group,1,England,,,,
+YOUFIRST,YOU FIRST ,1,Spanien,,,,
+YOUM,YOUnited Management GmbH,1,Deutschland,,,,
+Yu,Yu Matoji,1,Japan,,,,
+Zahavi,Pini Zahavi,1,Israel,,,,
+,,,,,,,
+,,631,,,,,
+,,17,,,,,
+,,216,,,,,
