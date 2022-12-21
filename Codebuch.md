@@ -1,9 +1,9 @@
 # Beraterfirmen in der Bundesliga
 # Datensatz #
 Codebuch Beraterfirmen der Bundesligaspieler 
-Stand Abgabe (27.09.2022)
+Stand Abgabe (21.12.2022)
 
-Erstellt von Hanna Damaschke (hd029) und Julian Rebmann (jr126)
+Erstellt von Hanna Damaschke (hd029), Theresa Fürst (tf052) und Julian Rebmann (jr126)
 
 ## Inhalt
 - buliedges.csv (Edgelist)
@@ -11,9 +11,9 @@ Erstellt von Hanna Damaschke (hd029) und Julian Rebmann (jr126)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Der Ursprung unserer Forschung liegt in der Vorlesung „Soziale Netzwerkanalyse“ im Rahmen des Studiums Crossmedia-Redaktion/Public Relations im dritten Semester an der Hochschule der Medien in Stuttgart. 
+Der Ursprung unserer Forschung liegt in der Vorlesung „Soziale Netzwerkanalyse“ im Rahmen des Studiums Crossmedia-Redaktion/Public Relations im dritten und vierten Semester an der Hochschule der Medien in Stuttgart. 
 
-Der Datenzugang erfolgt über die Webseite transfermarkt.de und die Webseiten der jeweiligen Beraterfirmen. Die Datenerhebung beschränkt sich auf die Top 7 Vereine und deren Spieler der Bundesliga Saison 2021/2022. 
+Der Datenzugang erfolgt über die Webseite transfermarkt.de und die Webseiten der jeweiligen Beraterfirmen. Die Datenerhebung beschränkt sich auf die 18 Vereine und deren Spieler der Bundesliga Saison 2021/2022. 
 
 Das Netzwerk ist ein *ungerichtetes Gesamtnetzwerk*. 
 
