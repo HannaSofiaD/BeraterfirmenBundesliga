@@ -25,8 +25,20 @@ Entspricht den Spieler-IDs in der Nodelist.
 **to**  
 Entspricht der ID der Beratungsfirma oder des Vereins
 
-**relation**  
+**relationship**  
 Definiert die Art der Geschäftsbeziehung: 1 = Spieler zu Beratungsfirma, 2 = Spieler zu Verein
+
+**rank**
+Entspricht der Platzierung des Vereins in der Saison 2021/22 mit 10 addiert (also von 11-28 durchnummeriert)
+
+**agency**
+jeweilige Berateragentur des Spielers
+
+**category**
+Alterskategorien der Spieler ("teen"=16-19, "young"=20-23, "mid"=24-27, "old"=28-31, "rusty"=32-38)
+
+**worth**
+Marktwertkategorien der Spieler ("nothing"\<1Mio, "low"=1-5Mio, "cheap"=5-20Mio, "average"=20-40Mio, "high"=40-60Mio, "expensive"\>60Mio)
 
 # NODELIST-Attribute  
   
@@ -47,3 +59,9 @@ Alter des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
 
 **value**             
 Marktwert des Spielers, bei Beraterfirma und Verein bleibt diese Zeile leer (NA).
+
+**category**
+Alterskategorien der Spieler ("teen"=16-19, "young"=20-23, "mid"=24-27, "old"=28-31, "rusty"=32-38)
+
+**worth**
+Marktwertkategorien der Spieler ("nothing"\<1Mio, "low"=1-5Mio, "cheap"=5-20Mio, "average"=20-40Mio, "high"=40-60Mio, "expensive"\>60Mio)
